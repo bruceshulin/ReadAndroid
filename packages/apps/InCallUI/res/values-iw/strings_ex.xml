@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">משך הקלטה:</string>
+<string name="onscreenShowRecodText">הקלט</string>
+<string name="recorderr">"שמירת קובץ ההקלטה נכשלה!"</string>
+<string name="audio_db_artist_name">ההקלטות שלך</string>
+<string name="audio_db_album_name">"הקלטות שיחה"</string>
+<string name="audio_db_playlist_name">ההקלטות שלי</string>
+<string name="app_name">יישום טלפון</string>
+<string name="error_mediadb_new_record">אין אפשרות לשמור את האודיו שהוקלט</string>
+<string name="sdcard_access_error">"לא ניתן לגשת לכרטיס ה-SD"</string>
+<string name="no_sd_card">"אין כרטיס SD או שהמכשיר אינו מחובר"</string>
+<string name="insert_sd_card">אנא הכניסו כרטיס SD</string>
+<string name="storage_is_full">האחסון מלא</string>
+<string name="recording">מקליט</string>
+<string name="used_by_other_applications">"ציוד ההקלטה נמצא בשימוש תוכניות אחרות כרגע, בבקשה בצעו כיבוי של התוכנית"</string>
+    <string name="prompt_record_finish">"קובץ ההקלטה נשמר"</string>
+    <string name="unknown_area">"אזור לא ידוע"</string>
+    <string name="call_video_state_change_add">"השיחה הנוכחית היא שיחת וידאו, לא ניתן להוסיף מתקשרים"</string>
+    <string name="call_video_state_change_hold">"השיחה הנוכחית היא שיחת וידאו, לא ניתן להעביר לממתינה"</string>
+
+</resources>

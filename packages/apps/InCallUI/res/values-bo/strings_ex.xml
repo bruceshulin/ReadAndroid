@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">ཟིན་ཐོའི་དུས་ཡུན།</string>
+<string name="onscreenShowRecodText">ཕབ་བཟོ།</string>
+<string name="recorderr">"ཟིན་ཐོའི་ཡིག་ཆ་ཉར་བ་ཕམ།"</string>
+<string name="audio_db_artist_name">ཁྱེད་ཀྱི་སྒྲ་ཕབ།</string>
+<string name="audio_db_album_name">"ཁ་པར་སྒྲར་འབེབ།"</string>
+<string name="audio_db_playlist_name">ངའི་སྒྲ་ཕབ།</string>
+<string name="app_name">"ཁ་པར་གྱི་ཉེར་སྤྱོད།"</string>
+<string name="error_mediadb_new_record">སྒྲ་ཕབ་བྱས་པའི་སྒྲ་ཟློས་ཉར་ཚགས་མི་ཐུབ།</string>
+<string name="sdcard_access_error">SDབྱང་བུར་འདྲི་གཏུག་གནང་ཐབས་མི་འདུག</string>
+<string name="no_sd_card">"SDཁཱ་མི་འདུག"</string>
+<string name="insert_sd_card">SDཁཱ་བར་བཅུག</string>
+<string name="storage_is_full">གསོག་ཉར་བར་སྟོང་ཁེངས་ཟིན།</string>
+<string name="recording">སྒྲ་ཕབ།</string>
+<string name="used_by_other_applications">"སྒྲིག་རིམ་གཞན་གྱིས་སྒྲ་འབེབ་སྒྲིག་ཆས་སྤྱོད་བཞིན་འདུག ཐོག་མར་སྒྲིག་རིམ་འདིའི་རིགས་ཀྱི་སྒོ་སྟེམ་རོགས།"</string>
+    <string name="unknown_area">མ་ཤེས་པའི་ཁུལ།</string>
+
+</resources>

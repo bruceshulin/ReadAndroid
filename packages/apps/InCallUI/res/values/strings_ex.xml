@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <!-- SPRD: Add for recorder. @{ -->
+    <string name="record_time">Record Time:</string>
+    <string name="onscreenShowRecodText">Record</string>
+    <string name="recorderr">Record file save fail! </string>
+    <string name="audio_db_artist_name">Your recordings</string>
+    <string name="audio_db_album_name">Call recordings</string>
+    <string name="audio_db_playlist_name">My recordings</string>
+    <string name="app_name">Phone App</string>
+    <string name="error_mediadb_new_record">Unable to save recorded audio</string>
+    <string name="sdcard_access_error">"Can\'t access sdcard"</string>
+    <string name="no_sd_card">NO SD card or UNMOUNTED</string>
+    <string name="insert_sd_card">Please insert an SD card</string>
+    <string name="storage_is_full">Storage is full</string>
+    <string name="recording">Recording&#160;</string>
+    <string name="used_by_other_applications">Recording equipment are used by other programs, please shut down the program </string>
+    <!-- @} -->
+    <!-- SPRD: Add for the English hints in recorder -->
+    <string name="prompt_record_finish">"The recording file has been saved to"</string>
+    <string name="unknown_area">"Unknown area"</string>
+    <!-- SPRD: fix bug 397142.  @{-->
+    <string name="call_video_state_change_add">"current call is video call, can't add"</string>
+    <string name="call_video_state_change_hold">"current call is video call, can't hold"</string>
+    <!-- @} -->
+    <!-- SPRD:modify for Bug410334 -->
+    <string name="main_card_slot">"Main Card :"</string>
+    <string name="gsm_card_slot">"Vice Card :"</string>
+
+    <string name="onscreenInviteText">"invite"</string>
+
+    <!-- SPRD: Add incallui plugin -->
+    <string name="incallui_plugin">"com.sprd.incallui.plugin.AddonInCallUIPlugin"</string>
+    <!-- @} -->
+</resources>

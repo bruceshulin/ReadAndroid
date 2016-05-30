@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Inspelningstid:"</string>
+<string name="onscreenShowRecodText">"Spela in"</string>
+<string name="recorderr">"Det gick inte att spara det inspelade filen!"</string>
+<string name="audio_db_artist_name">"Dina inspelningar"</string>
+<string name="audio_db_album_name">"Samtalsposter"</string>
+<string name="audio_db_playlist_name">"Mina inspelningar"</string>
+<string name="app_name">"Telefonapp"</string>
+<string name="error_mediadb_new_record">"Det gick inte att spara inspelat ljud."</string>
+<string name="sdcard_access_error">"Kan inte komma år SD-kort"</string>
+<string name="no_sd_card">"Inget SD-kort eller demonterat"</string>
+<string name="insert_sd_card">"Sätt in ett SD-kort"</string>
+<string name="storage_is_full">"Lagringsplatsen är full"</string>
+<string name="recording">"Inspelning"</string>
+<string name="used_by_other_applications">"inspelningsutrustningen används av andra program, stäng av programmet"</string>
+    <string name="prompt_record_finish">"Den inspelade filen har sparats till"</string>
+    <string name="unknown_area">"Okänt område"</string>
+    <string name="call_video_state_change_add">"Det aktuella samtalet är ett videosamtal, kan inte lägga till"</string>
+    <string name="call_video_state_change_hold">"Det aktuella samtalet är ett videosamtal, kan inte parkera"</string>
+
+</resources>

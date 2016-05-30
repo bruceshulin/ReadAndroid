@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Thời gian ghi âm:</string>
+<string name="onscreenShowRecodText">Ghi</string>
+<string name="recorderr">"lưu tệp ghi thất bại!"</string>
+<string name="audio_db_artist_name">"Bản ghi của bạn"</string>
+<string name="audio_db_album_name">"Bản ghi cuộc gọi"</string>
+<string name="audio_db_playlist_name">Ghi âm của tôi</string>
+<string name="app_name">Ứng dụng Điện thoại</string>
+<string name="error_mediadb_new_record">Không thể lưu âm thành được ghi</string>
+<string name="sdcard_access_error">Không thể truy cập sdcard</string>
+<string name="no_sd_card">"KHÔNG CÓ Thẻ SD hoặc BỊ THÁO"</string>
+<string name="insert_sd_card">Vui lòng lắp thẻ SD</string>
+<string name="storage_is_full">"Bộ nhớ đầy"</string>
+<string name="recording">"Đang ghi"</string>
+<string name="used_by_other_applications">"Thiết bị ghi chép được sử dụng bởi các chương trình khác. Vui lòng tắt chương trình"</string>
+    <string name="prompt_record_finish">"Các tập tin ghi âm đã được lưu vào"</string>
+    <string name="unknown_area">"Khu vực không xác định" </string>
+    <string name="call_video_state_change_add">"cuộc gọi hiện tại là cuộc gọi video, không thể thêm vào"</string>
+    <string name="call_video_state_change_hold">"cuộc gọi hiện tại là cuộc gọi video, không thể giữ máy"</string>
+
+</resources>

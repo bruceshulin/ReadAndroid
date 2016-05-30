@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"റെക്കോഡ് സമയം:"</string>
+<string name="onscreenShowRecodText">"റെക്കോഡ്"</string>
+<string name="recorderr">"റെക്കോഡ് ഫയല്‍ സംരക്ഷിക്കല്‍ പരാജയപ്പെട്ടു!"</string>
+<string name="audio_db_artist_name">"താങ്കളുടെ റെക്കോര്‍ഡിംഗുകള്‍"</string>
+<string name="audio_db_album_name">"കോള്‍ റെക്കോഡിംഗുകള്‍"</string>
+<string name="audio_db_playlist_name">"എന്റെ റെക്കോര്‍ഡിംഗുകള്‍"</string>
+<string name="app_name">"ഫോണ്‍ ആപ്പ്"</string>
+<string name="error_mediadb_new_record">"റെക്കോര്‍ഡ് ചെയ്ത ഓഡിയോ സൂക്ഷിക്കാന്‍ കഴിഞ്ഞില്ല"</string>
+<string name="sdcard_access_error">"sd കാര്‍ഡ് സ്വീകരിക്കാനാകുന്നില്ല"</string>
+<string name="no_sd_card">"SD കാര്‍ഡ് ഇല്ല അല്ലെങ്കില്‍ നീക്കം ചെയ്തു"</string>
+<string name="insert_sd_card">"ദയവായി SD കാര്‍ഡ് ഇടുക"</string>
+<string name="storage_is_full">"സ്റ്റോറേജ് നിറഞ്ഞു കഴിഞ്ഞു"</string>
+<string name="recording">"റെക്കോര്‍ഡിംഗ്"</string>
+<string name="used_by_other_applications">"മറ്റൊരു പ്രോഗ്രാം റിക്കാര്‍ഡിംഗ് ഉപകരണം ഉപയോഗിച്ചുകൊണ്ടിരിക്കുന്നു,ദയവായി ആ പ്രോഗ്രാം നിറുത്തുക"</string>
+    <string name="prompt_record_finish">"നിലവിലുള്ള കോള്‍ വീഡിയോ കോളാണ്, ചേര്‍ക്കാനാവില്ല"</string>
+    <string name="unknown_area">"അജ്ഞാതമായ മേഖല"</string>
+    <string name="call_video_state_change_add">"നിലവിലുള്ള കോള്‍ വീഡിയോ കോളാണ്, ഹോള്‍ഡ് ചെയ്യാനാവില്ല"</string>
+    <string name="call_video_state_change_hold">"വാള്‍പേപ്പര്‍ സ്ഥാപിക്കല്‍ പരാജയപ്പെട്ടു!"</string>
+
+</resources>

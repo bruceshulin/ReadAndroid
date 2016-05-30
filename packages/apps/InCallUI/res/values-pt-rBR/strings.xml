@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"Telefone"</string>
+<string name="onHold">"Mantido"</string>
+<string name="unknown">"Desconhecido"</string>
+<string name="private_num">"Número privado"</string>
+<string name="payphone">"Telefone público"</string>
+<string name="confCall">"Chamada de conferência"</string>
+<string name="call_lost">"Chamada é perdida."</string>
+<string name="ok">"OK"</string>
+<string name="audio_mode_speaker">"Alto-falante"</string>
+<string name="audio_mode_earpiece">"Receptor de auscultador"</string>
+<string name="audio_mode_wired_headset">Fone de ouvido com fio</string>
+<string name="audio_mode_bluetooth">"Bluetooth"</string>
+<string name="wait_prompt_str">"Enviar os tons seguintes?\n"</string>
+<string name="pause_prompt_str">Enviando tons\n</string>
+<string name="send_button">"Enviar"</string>
+<string name="pause_prompt_yes">"Sim"</string>
+<string name="pause_prompt_no">"Não"</string>
+<string name="wild_prompt_str">"Colocar o carácter de selvagem com"</string>
+<string name="caller_manage_header">Chamada de teleconferência <xliff:g id="conf_call_time">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">"Número de vozmail"</string>
+<string name="card_title_dialing">"Discando"</string>
+<string name="card_title_redialing">"Retentando"</string>
+<string name="card_title_conf_call">"Chamada de conferência"</string>
+<string name="card_title_incoming_call">"Chamada recebida"</string>
+<string name="card_title_call_ended">"Chamada acabada"</string>
+<string name="card_title_on_hold">"Mantido"</string>
+<string name="card_title_hanging_up">"Desligando"</string>
+<string name="card_title_in_call">"Na chamada"</string>
+<string name="card_title_my_phone_number">Meu número é <xliff:g id="my_phone_number">%s</xliff:g></string>
+<string name="card_title_video_call_connecting">"Ligando vídeo"</string>
+<string name="card_title_video_call">"Chamada de video"</string>
+<string name="card_title_video_call_requesting">"Solicitando vídeo"</string>
+<string name="card_title_video_call_error">"Não pode ligar a chamada de vídeo"</string>
+<string name="card_title_callback_number">"Número da sua chamada de volta\n <xliff:g id="dark_number">%1$s</xliff:g> "</string>
+<string name="card_title_callback_number_emergency">"Número da sua chamada de volta de emergência\n <xliff:g id="dark_number">%1$s</xliff:g> "</string>
+<string name="notification_dialing">"Discando"</string>
+<string name="notification_missedCallTitle">"Chamada perdida"</string>
+<string name="notification_missedCallsTitle">"Chamadas perdidas"</string>
+<string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> chamadas perdidas</string>
+<string name="notification_missedCallTicker">Faltou a chamada de <xliff:g id="missed_call_from">%s</xliff:g></string>
+<string name="notification_ongoing_call">"Chamada de entrada"</string>
+<string name="notification_on_hold">"Mantido"</string>
+<string name="notification_incoming_call">"Chamada de voz de entrada"</string>
+<string name="notification_incoming_video_call">"Chamada de vídeo entrada"</string>
+<string name="notification_requesting_video_call">"Solicitação de vídeo de entrada"</string>
+<string name="notification_voicemail_title">"Novo vozmail"</string>
+<string name="notification_voicemail_title_count">Novo correio de voz (<xliff:g id="count">%d</xliff:g>)</string>
+<string name="notification_voicemail_text_format">Discar <xliff:g id="voicemail_number">%s</xliff:g></string>
+<string name="notification_voicemail_no_vm_number">"Número de vozmail desconhecido."</string>
+<string name="notification_network_selection_title">"Sem serviço"</string>
+<string name="notification_network_selection_text">Rede selecionada (<xliff:g id="operator_name">%s</xliff:g>) indisponível</string>
+<string name="notification_action_end_call">"Desligar"</string>
+<string name="notification_action_answer_video">"Vídeo"</string>
+<string name="notification_action_answer_voice">"Voz"</string>
+<string name="notification_action_accept">"Aceitar"</string>
+<string name="notification_action_dismiss">"Recusar"</string>
+<string name="notification_missedCall_call_back">"Ligar de volta"</string>
+<string name="notification_missedCall_message">"Mensagem"</string>
+<string name="incall_error_power_off">Para colocar uma chamada, primeiro desligue o modo de Avião.</string>
+<string name="incall_error_emergency_only">"Não limitados no rede."</string>
+<string name="incall_error_out_of_service">"Rede móvel não disponível"</string>
+<string name="incall_error_no_phone_number_supplied">"Chamada não enviada, sem número válido entrado."</string>
+<string name="incall_error_call_failed">"Chamada não enviada"</string>
+<string name="incall_status_dialed_mmi">"Iniciando MMI sequência\u2026"</string>
+<string name="incall_error_supp_service_unknown">"Serviço não suportado."</string>
+<string name="incall_error_supp_service_switch">"Não pode mudar as chamadas."</string>
+<string name="incall_error_supp_service_separate">"Não pode separar chamada."</string>
+<string name="incall_error_supp_service_transfer">"Não pode transferir chamada."</string>
+<string name="incall_error_supp_service_conference">"Não pode fazer as chamadas de conferência."</string>
+<string name="incall_error_supp_service_reject">"Não pode recusar chamada."</string>
+<string name="incall_error_supp_service_hangup">"Não pode soltar as chamadas."</string>
+<string name="incall_call_type_label_sip">"SIP chamada"</string>
+<string name="emergency_enable_radio_dialog_title">Chamada de emergência </string>
+<string name="emergency_enable_radio_dialog_message">"Ligar o rádio\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"Fora de área de serviço, retentando\u2026"</string>
+<string name="dial_emergency_error">"Chamada não enviada. <xliff:g id="non_emergency_number">%s</xliff:g> não é um número de emergência!"</string>
+<string name="dial_emergency_empty_error">"Chamada não enviada. Chamar um número de emergência!"</string>
+<string name="dialerKeyboardHintText">"Usar teclado para discar"</string>
+<string name="overflowHoldMenuItemText">"Segurar chamada"</string>
+<string name="overflowResumeMenuItemText">"Retomar chamada"</string>
+<string name="overflowAddMenuItemText">"Adicionar chamada"</string>
+<string name="overflowMergeMenuItemText">"Juntar as chamadas"</string>
+<string name="overflowSwapMenuItemText">Chamadas de swap</string>
+<string name="onscreenHoldText">"Segurar"</string>
+<string name="onscreenEndCallText">"Fim"</string>
+<string name="onscreenShowDialpadText">"Teclado"</string>
+<string name="onscreenMuteText">"SILÊNCIO"</string>
+<string name="onscreenAddCallText">"Adicionar chamada"</string>
+<string name="onscreenMergeCallsText">"Juntar as chamadas"</string>
+<string name="onscreenSwapCallsText">"Trocar"</string>
+<string name="onscreenManageCallsText">"Administrar as chamadas"</string>
+<string name="onscreenManageConferenceText">"Administrar chamada de conferência"</string>
+<string name="onscreenAudioText">"Áudio"</string>
+<string name="onscreenVideoCallText">"Chamada de video"</string>
+<string name="onscreenChangeToVoiceText">"Mudar para chamada de voz"</string>
+<string name="onscreenSwitchCameraText">Camera de interruptor</string>
+<string name="onscreenPauseVideoText">"Pausa vídeo"</string>
+<string name="onscreenOverflowText">"Mais opções"</string>
+<string name="voicemail_provider">"Serviço"</string>
+<string name="voicemail_settings">Ajuste</string>
+<string name="voicemail_number_not_set">"&lt;Not set&gt;"</string>
+<string name="other_settings">"Outros ajustes de chamada"</string>
+<string name="calling_via_template">"Chamando via <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="incoming_via_template">"Entrada via <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"Fotografia de Contacto"</string>
+<string name="goPrivate">"ir privado"</string>
+<string name="selectContact">"Selecionar contato"</string>
+<string name="respond_via_sms_custom_message">"Escrever o seu próprio..."</string>
+<string name="custom_message_cancel">"Cancelar"</string>
+<string name="custom_message_send">"Enviar"</string>
+<string name="description_image_button_one">"Um"</string>
+<string name="description_image_button_two">"Dois"</string>
+<string name="description_image_button_three">"Três"</string>
+<string name="description_image_button_four">quatro</string>
+<string name="description_image_button_five">"cinco"</string>
+<string name="description_image_button_six">seis</string>
+<string name="description_image_button_seven">"Sete"</string>
+<string name="description_image_button_eight">"oito"</string>
+<string name="description_image_button_nine">"Nove"</string>
+<string name="description_image_button_star">"Configurações em espera"</string>
+<string name="description_image_button_zero">zero</string>
+<string name="description_image_button_pound">"Libra esterlina"</string>
+<string name="description_dial_button">"discar"</string>
+<string name="description_delete_button">"retrocesso"</string>
+<string name="accessibility_speakerphone_selected">"Aulto-falante selecionado"</string>
+<string name="accessibility_earpiece_selected">"Auscultador selecionado"</string>
+<string name="accessibility_wired_headset_selected">"Auscultador com fio selecionado"</string>
+<string name="accessibility_bluetooth_headset_selected">"Auscultador de Bluetooth selecionado"</string>
+<string name="accessibility_call_muted">"Chamada mute."</string>
+<string name="accessibility_call_unmuted">"Chamada não mute."</string>
+<string name="accessibility_call_put_on_hold">"Chamada segurada."</string>
+<string name="accessibility_call_removed_from_hold">"Chamada removida de segurada."</string>
+<string name="description_target_answer">"Responder"</string>
+<string name="description_target_send_sms">"Enviar SMS"</string>
+<string name="description_target_decline">"Rejeitar"</string>
+<string name="description_target_answer_video_call">"Responder como chamada de vídeo"</string>
+<string name="description_target_answer_audio_call">"Responder como chamada de audio"</string>
+<string name="description_target_accept_upgrade_to_video_request">"Aceitar solicitação de vídeo"</string>
+<string name="description_target_decline_upgrade_to_video_request">"Recusar solicitação de vídeo"</string>
+<string name="description_direction_up">Deslizar para cima <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+<string name="description_direction_left">Deslizar para esquerda <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+<string name="description_direction_right">Deslizar para direito <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+<string name="description_direction_down">Deslizar para baixo <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+<string name="voicemail_notification_vibrate_when_title">"Vibrar"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"Vibrar"</string>
+<string name="voicemail_notification_ringtone_title">"Som"</string>
+<string name="default_notification_description">"Default som (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">Toque de telefone</string>
+<string name="vibrate_on_ring_title">Vibrar quando tocar</string>
+<string name="dial_pad_autocomplete">"Chamar almofada autocompleta"</string>
+<string name="preference_category_ringtone">"Melodia &amp; Vibrar"</string>
+<string name="manageConferenceLabel">"Administrar chamada de conferência"</string>
+<string name="emergency_call_dialog_number_for_display">"Número de emergência"</string>
+<string name="select_account_dialog_title">"Favor Selecione SIM"</string>
+    <string name="notification_action_answer">"Atender"</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Tiempo de grabación:</string>
+<string name="onscreenShowRecodText">Record</string>
+<string name="recorderr">Falla al guardar archivo de registro!</string>
+<string name="audio_db_artist_name">"Tus grabaciones"</string>
+<string name="audio_db_album_name">registros de llamadas</string>
+<string name="audio_db_playlist_name">"Mis grabaciones"</string>
+<string name="app_name">App teléfono</string>
+<string name="error_mediadb_new_record">"No se puede guardar el audio grabado."</string>
+<string name="sdcard_access_error">No se puede acceder a la tarjeta SD</string>
+<string name="no_sd_card">No hay tarjeta SD o esta ha sido desmontada</string>
+<string name="insert_sd_card">"Inserta una tarjeta SD."</string>
+<string name="storage_is_full">"Espacio insuficiente"</string>
+<string name="recording">"Grabando..."</string>
+<string name="used_by_other_applications">"El equipo de grabacin esta siendo utilizado por otro programa, por favor cierrre el programa"</string>
+    <string name="prompt_record_finish">"El archivo de grabado ha sido guardado en"</string>
+    <string name="unknown_area">"Area desconocida"</string>
+    <string name="call_video_state_change_add">"La llamada actual es de video, no se puede añadir"</string>
+    <string name="call_video_state_change_hold">"La llamada actual es de video, no se puede esperar"</string>
+<!-- SPRD: Add incallui plugin -->
+    <string name="incallui_plugin">"com.sprd.incallui.plugin.AddonInCallUIPlugin"</string>
+    <!-- @} -->
+</resources>

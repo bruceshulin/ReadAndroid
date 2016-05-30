@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Registertid:"</string>
+<string name="onscreenShowRecodText">"Spill inn"</string>
+<string name="recorderr">"Registerfil-lagring mislykkes!"</string>
+<string name="audio_db_artist_name">"Dine opptak"</string>
+<string name="audio_db_album_name">"Samtale opptak"</string>
+<string name="audio_db_playlist_name">"Mine opptak"</string>
+<string name="app_name">"Telefon applikasjon"</string>
+<string name="error_mediadb_new_record">"Kan ikke lagre innspilt lyd"</string>
+<string name="sdcard_access_error">"Har ikke tilgang til SD kort"</string>
+<string name="no_sd_card">"Inget SD-kort eller umontert"</string>
+<string name="insert_sd_card">"Sett inn et SD-kort"</string>
+<string name="storage_is_full">"Minnet er fullt"</string>
+<string name="recording">"Registrerer"</string>
+<string name="used_by_other_applications">"Opptaksutstyr brukes av andre programmer, kan du slå av programmet"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"ಸಮಯ ದಾಖಲಿಸಿ:"</string>
+<string name="onscreenShowRecodText">"ದಾಖಲಿಸಿ."</string>
+<string name="recorderr">"ದಾಖಲಾತಿ ಹಾದಿಫೈಲ್ ಉಳಿಸಲು ವಿಫಲ!"</string>
+<string name="audio_db_artist_name">"ನಿಮ್ಮ ಗ್ರಹಣಗಳು"</string>
+<string name="audio_db_album_name">"ಕರೆಗಳ ದಾಖಲಾತಿ"</string>
+<string name="audio_db_playlist_name">"ನನ್ನ ಗ್ರಹಣಗಳು"</string>
+<string name="app_name">"ಫೋನ್ ಅಪ್ಲಿಕೇಶನ್"</string>
+<string name="error_mediadb_new_record">"ಗ್ರಹಿತ  ಶ್ರವಣವನ್ನು ಉಳಿಸಲಾಗುತ್ತಿಲ್ಲ"</string>
+<string name="sdcard_access_error">"sd ಕಾರ್ಡ್ ಅನ್ನು ತಲುಪಲಾಗುತ್ತಿಲ್ಲ"</string>
+<string name="no_sd_card">"SD ಕಾರ್ಡ್ ಇಲ್ಲ ಅಥವಾ ತೆಗೆದುಹಾಕಲಾಗಿದೆ"</string>
+<string name="insert_sd_card">"ದಯವಿಟ್ಟು ಒಂದು SD ಕಾರ್ಡ್ ಅನ್ನು ಒಳಸೇರಿಸಿ"</string>
+<string name="storage_is_full">"ಸ್ಟೋರೇಜ್ ತುಂಬಿದೆ"</string>
+<string name="recording">"ದಾಖಲಾತಿ"</string>
+<string name="used_by_other_applications">""ಬೇರೆ ಕಾರ್ಯಗಳಿಗಾಗಿ ದಾಖಲಿಸುವ ಸಾಶನಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳಲಾಗಿದೆ, ದಯವಿಟ್ಟು ಕಾರ್ಯಕ್ರಮವನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸಿ." "</string>
+    <string name="prompt_record_finish">"ದಾಖಲೆಯಾದ ಕಡತಗಳು ಉಳಿಕೆಯಾಗಿರುವುದು"</string>
+    <string name="unknown_area">"ಗೊತ್ತಿಲ್ಲದ ಪ್ರದೇಶ"</string>
+    <string name="call_video_state_change_add">" ಸಧ್ಯದ ಕರೆ ವೀಡಿಯೋ ಕರೆ ,ಸೇರಿಸಲಾಗುತ್ತಿಲ್ಲ." </string>
+    <string name="call_video_state_change_hold">" ಸಧ್ಯದ ಕರೆ ವೀಡಿಯೋ ಕರೆ ,ಹೋಲ್ಡ್ ಮಾಡಲಾಗುತ್ತಿಲ್ಲ.</string>
+
+</resources>

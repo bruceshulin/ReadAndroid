@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Время записи:</string>
+<string name="onscreenShowRecodText">Record</string>
+<string name="recorderr">не удалось сохранить файл записи!</string>
+<string name="audio_db_artist_name">"Ваши записи"</string>
+<string name="audio_db_album_name">Запись разговоров</string>
+<string name="audio_db_playlist_name">"Мои записи"</string>
+<string name="app_name">Телефон прил.</string>
+<string name="error_mediadb_new_record">"Не удалось сохранить аудиозапись"</string>
+<string name="sdcard_access_error">Нет доступа к SD-карте</string>
+<string name="no_sd_card">SD-карты нет, либо она ИЗВЛЕЧЕНА</string>
+<string name="insert_sd_card">"Вставьте SD-карту"</string>
+<string name="storage_is_full">"Память заполнена"</string>
+<string name="recording">"Запись"</string>
+<string name="used_by_other_applications">"записывающие устройства исползьуются другими программами. Пожалуйста, закройте программу."</string>
+    <string name="prompt_record_finish">Записанные файлы сохранены в"</string>
+    <string name="unknown_area">Неизвестная область</string>
+    <string name="call_video_state_change_add">"идет видео звонок, нельзя добавить"</string>
+    <string name="call_video_state_change_hold">"идет видео звонок, нельзя сохранить"</string>
+
+</resources>

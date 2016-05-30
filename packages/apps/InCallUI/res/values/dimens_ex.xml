@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- add for multicall -->
+    <dimen name="in_call_photo_top_magin">275dp</dimen>
+    <dimen name="conference_call_list_item_padding">5dp</dimen>
+</resources>

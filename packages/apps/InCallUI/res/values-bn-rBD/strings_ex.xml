@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">রেকর্ড সময়:</string>
+<string name="onscreenShowRecodText">রেকর্ড </string>
+<string name="recorderr">"রেকর্ড ফাইল সংরক্ষণ ব্যর্থ!"</string>
+<string name="audio_db_artist_name">আপনার রেকর্ডিং</string>
+<string name="audio_db_album_name">"কল রেকর্ডিং "</string>
+<string name="audio_db_playlist_name">আমার রেকর্ডিং</string>
+<string name="app_name">ফোন App</string>
+<string name="error_mediadb_new_record">যাও অডিও রেকর্ড সংরক্ষণ করা যায়নি</string>
+<string name="sdcard_access_error">sdকার্ড ব্যবহার করা যাচ্ছেনা</string>
+<string name="no_sd_card">"কোন SD কার্ড অথবা আনমাউন্ট নেই"</string>
+<string name="insert_sd_card">একটা  SD  কার্ড সন্নিবেশ করুন</string>
+<string name="storage_is_full">সংগ্রহস্থল পূর্ণ</string>
+<string name="recording">রেকর্ডিং</string>
+<string name="used_by_other_applications">""রেকর্ডিং সরঞ্জাম অন্য কর্মসূচিগুলির দ্বারা ব্যবহ্নত হয়েছে, অনুগ্রহ করে কর্মসূচি বন্ধ করুন"      "</string>
+    <string name="prompt_record_finish">রেকর্ডিং ফাইল সেভ্ হয়ে গেছে এতে</string>
+    <string name="unknown_area">"অজানা অঞ্চল"</string>
+    <string name="call_video_state_change_add">বর্তমান কলটি হল ভিডিও কল্, ধরে রাখতে পারে না</string>
+    <string name="call_video_state_change_hold">বর্তমান কলটি হল ভিডিও কল্, ধরে রাখতে পারে না</string>
+
+</resources>

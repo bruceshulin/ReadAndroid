@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Waktu perekaman:</string>
+<string name="onscreenShowRecodText">Record</string>
+<string name="recorderr">"Rekaman simpanan data gagal!"</string>
+<string name="audio_db_artist_name">"Rekaman anda"</string>
+<string name="audio_db_album_name">"Perekaman panggilan"</string>
+<string name="audio_db_playlist_name">"Rekaman saya"</string>
+<string name="app_name">"Aplikasi telepon"</string>
+<string name="error_mediadb_new_record">"Tidak dapat menyimpan audio yang direkam"</string>
+<string name="sdcard_access_error">Tidak dapat mengakses kartu SD</string>
+<string name="no_sd_card">"Tidak ada kartu SD atau tidak terpasang"</string>
+<string name="insert_sd_card">"Masukkan kartu SD"</string>
+<string name="storage_is_full">"Penyimpanan penuh"</string>
+<string name="recording">"Perekaman"</string>
+<string name="used_by_other_applications">"merekam perlengkapan sedang digunakan oleh program lain, silahkan matikan program"</string>
+    <string name="prompt_record_finish">"Perekaman catatan telah dismpan ke"</string>
+    <string name="unknown_area">"Area tidak diketahui"</string>
+    <string name="call_video_state_change_add">"Panggilan saat ini adalah panggilan video, tidak dapat ditambahkan"</string>
+    <string name="call_video_state_change_hold">"Panggilan saat ini adalah panggilan video, tidak dapat ditahan"</string>
+
+</resources>

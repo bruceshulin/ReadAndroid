@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"salvestuse aeg:"</string>
+<string name="onscreenShowRecodText">"Salvestus"</string>
+<string name="recorderr">"Salvesta salvestise fail!"</string>
+<string name="audio_db_artist_name">"Teie salvestused"</string>
+<string name="audio_db_album_name">"Kõne salvestised"</string>
+<string name="audio_db_playlist_name">"Minu salvestused"</string>
+<string name="app_name">"Telefoni Rakendus"</string>
+<string name="error_mediadb_new_record">"Salvestatud heli ei õnnestunud salvestada."</string>
+<string name="sdcard_access_error">"Puudub ligipääs asukohale sdkaart"</string>
+<string name="no_sd_card">"SD kaart PUUDUB või PAIGAST LIIGUTATUD"</string>
+<string name="insert_sd_card">"Palun sisesta SD kaart"</string>
+<string name="storage_is_full">"Mäluruum on täis"</string>
+<string name="recording">"Salvestamine"</string>
+<string name="used_by_other_applications">"Salvestusseadmed on kasutuses teiste progrmmide poolt, palun lülita programm välja"</string>
+    <string name="prompt_record_finish">"Salvestusfail salvestati asukohta"</string>
+    <string name="unknown_area">"Tundmatu ala"</string>
+    <string name="call_video_state_change_add">"praegune kõne on videokõne, ei saa lisada"</string>
+    <string name="call_video_state_change_hold">"praegune kõne on videokõne, ei saa panna ootele"</string>
+
+</resources>

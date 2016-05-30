@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Čas zapisa:</string>
+<string name="onscreenShowRecodText">Snemaj</string>
+<string name="recorderr">"shranjevanje datoteke ni uspelo!"</string>
+<string name="audio_db_artist_name">"Vaši posnetki"</string>
+<string name="audio_db_album_name">"Posnetki klicev"</string>
+<string name="audio_db_playlist_name">Moji posnetki</string>
+<string name="app_name">Program telefona</string>
+<string name="error_mediadb_new_record">Ne morem shraniti posnetega avdia </string>
+<string name="sdcard_access_error">"Ne morem dostopati do sd kartice"</string>
+<string name="no_sd_card">"SD kartica ni na voljo ali je odstranjena"</string>
+<string name="insert_sd_card">Prosimo vstavite SD kartico</string>
+<string name="storage_is_full">Pomnilnik je poln </string>
+<string name="recording">"Snemanje"</string>
+<string name="used_by_other_applications">"Napravo za snemanje uporabljajo drugi programi, ugasnite program"</string>
+    <string name="prompt_record_finish">"Posnetek je bil shranjen v"</string>
+    <string name="unknown_area">"Neznano področje"</string>
+    <string name="call_video_state_change_add">"trenutni klic je video klic, ne morem dodati"</string>
+    <string name="call_video_state_change_hold">"trenutni klic je video klic, ne morem dati na čakanje"</string>
+
+</resources>

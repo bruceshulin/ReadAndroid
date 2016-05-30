@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Tallennusaika:"</string>
+<string name="onscreenShowRecodText">"Äänitä"</string>
+<string name="recorderr">"Kirjatun tiedoston tallennus epäonnistui!"</string>
+<string name="audio_db_artist_name">"Omat tallenteet"</string>
+<string name="audio_db_album_name">"Soiton tallennukset"</string>
+<string name="audio_db_playlist_name">"Omat tallenteet"</string>
+<string name="app_name">"Puhelimen sovellutus"</string>
+<string name="error_mediadb_new_record">"Nauhoitettua ääntä ei voitu tallentaa."</string>
+<string name="sdcard_access_error">"Ei pääse sdkorttiin"</string>
+<string name="no_sd_card">""EI SD korttia tai IRROTETTU”"</string>
+<string name="insert_sd_card">"Liitä SD-kortti"</string>
+<string name="storage_is_full">"Tallennustila on täynnä"</string>
+<string name="recording">"Tallennetaan"</string>
+<string name="used_by_other_applications">"Tallennuslaitteita käytetään toisessa ohjelmassa, sulje ohjelma "</string>
+    <string name="prompt_record_finish">"Nauhoitettu tiedosto on tallennettu"</string>
+    <string name="unknown_area">"Tuntematon alue"</string>
+    <string name="call_video_state_change_add">"nykyinen puhelu on viedopuhelu, ei voi lisätä"</string>
+    <string name="call_video_state_change_hold">"nykyinen puhelu on videopuhelu, ei voi laittaa pitoon"</string>
+
+</resources>

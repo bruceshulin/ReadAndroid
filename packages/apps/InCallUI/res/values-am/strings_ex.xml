@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">የመቅጃ ሰዓት፤</string>
+<string name="onscreenShowRecodText">በመቅዳት ላይ</string>
+<string name="recorderr">" የተቀዳ ፋይል መመዝገብ አልተሳካም!"</string>
+<string name="audio_db_artist_name">ቅጂዎችዎ</string>
+<string name="audio_db_album_name">"የጥሪ ቅጂዎችዎ"</string>
+<string name="audio_db_playlist_name">የኔ ቅጂዎች </string>
+<string name="app_name">የስልክ መተግበሪያ </string>
+<string name="error_mediadb_new_record">የተቀዳውን ተሰሚ ለማስቀመጥ አልተቻለም</string>
+<string name="sdcard_access_error">sd ካርድ መድረስ አይችልም</string>
+<string name="no_sd_card">"SD ካርድ የለም ወይም የማይነቀል"</string>
+<string name="insert_sd_card">SD ካርድ አስገባ </string>
+<string name="storage_is_full">ማከማቻ ሙሉ ነው</string>
+<string name="recording">በመቅዳት ላይ</string>
+<string name="used_by_other_applications">"የመቅጃዉ መሳሪያ በሌላ ፕሮግራም ስለተያዘ እባክዎ ፐሮግራሙን ይዝጉት"</string>
+    <string name="prompt_record_finish">"የተቀዳው ፋይል የተቀመጠው በ"</string>
+    <string name="unknown_area">"ያልታወቀ ቦታ"</string>
+    <string name="call_video_state_change_add">"የአሁኑ የቪዲዮ ደውል ነው፣ አልተጨመረም"</string>
+    <string name="call_video_state_change_hold">"የአሁኑ የቪዲዮ ደውል ነው፣ አልተያዘም"</string>
+
+</resources>

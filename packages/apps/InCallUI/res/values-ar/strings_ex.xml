@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"زمن التسجيل:"</string>
+<string name="onscreenShowRecodText">"تسجيل"</string>
+<string name="recorderr">"فضل حفظ ملف التسجيل!"</string>
+<string name="audio_db_artist_name">"تسجيلاتك"</string>
+<string name="audio_db_album_name">"تسجيلات الإتصال"</string>
+<string name="audio_db_playlist_name">"تسجيلاتي"</string>
+<string name="app_name">"تطبيق الهاتف"</string>
+<string name="error_mediadb_new_record">"غير قادر على حفظ التسجيل الصوتي"</string>
+<string name="sdcard_access_error">"لا يمكن الوصول إلى شريحةsd"</string>
+<string name="no_sd_card">"لا توجد بطاقة SD أو غير مركبة"</string>
+<string name="insert_sd_card">"الرجاء ادخال بطاقة التخزين SD"</string>
+<string name="storage_is_full">"الذاكرة ممتلئة"</string>
+<string name="recording">"التسجيل"</string>
+<string name="used_by_other_applications">""أدوات التسجيل تستخدم بواسطة برامج أخرى، من فضلك قم بإغلاق البرنامج" "</string>
+    <string name="prompt_record_finish">"تم حفظ ملف التسجيل"</string>
+    <string name="unknown_area">"منطقة غير معروفة"</string>
+    <string name="call_video_state_change_add">"الاتصال الحالي هو اتصال فيديو، لا يمكن الإضافة"</string>
+    <string name="call_video_state_change_hold">"الاتصال الحالي هو اتصال فيديو، لا يمكن الانتظار"</string>
+
+</resources>

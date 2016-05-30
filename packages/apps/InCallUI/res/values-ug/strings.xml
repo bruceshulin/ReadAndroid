@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"تېلېفۇن"</string>
+<string name="onHold">ۋاقىتىنچە توختىتىش</string>
+<string name="unknown">بىلىنمىگەن</string>
+<string name="private_num">خۇسۇسىي نۇمۇر</string>
+<string name="payphone">تېلفۇن ھەققى</string>
+<string name="confCall">تىلفۇن يىغىنى</string>
+<string name="call_lost">چاقىرش ئاخىلاشتى.</string>
+<string name="ok">بولدى</string>
+<string name="audio_mode_speaker">سۆزلىگۈچى</string>
+<string name="audio_mode_earpiece">يانفون تىڭشىغۇچ</string>
+<string name="audio_mode_wired_headset">سىملىق تىڭشىغۇچ</string>
+<string name="audio_mode_bluetooth">"كۆك چىش"</string>
+<string name="wait_prompt_str">تۆۋەندىكى ئاھاڭنى ئەۋەتەمسىز؟\n</string>
+<string name="pause_prompt_str">قوڭغۇراق ئېۋەرتىش\n</string>
+<string name="send_button">يوللاش</string>
+<string name="pause_prompt_yes">ھەئە</string>
+<string name="pause_prompt_no">ياق</string>
+<string name="wild_prompt_str">"ئورتاق بەلگىنى ئۆزگەرتىش"</string>
+<string name="caller_manage_header">تىلفۇن يىغىنى <xliff:g id="conf_call_time">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">ئاۋازلىق  خەت ساندۇغىنىڭ نۇمىرى</string>
+<string name="card_title_dialing">"ئۇرىۋاتىدۇ"</string>
+<string name="card_title_redialing">قايتا سىناش</string>
+<string name="card_title_conf_call">تىلفۇن يىغىنى</string>
+<string name="card_title_incoming_call">كەلگەن نومۇر</string>
+<string name="card_title_call_ended">سۆزلىشىش ئاخىرلاشتى</string>
+<string name="card_title_on_hold">ۋاقىتىنچە توختىتىش</string>
+<string name="card_title_hanging_up">ئۈزۋىىتىش</string>
+<string name="card_title_in_call">سۆزلىشىۋاتىدۇ</string>
+<string name="card_title_my_phone_number">مېنىڭ نۇمۇرىم بولسا <xliff:g id="my_phone_number">%s</xliff:g></string>
+<string name="card_title_video_call_connecting">"سىنغا ئۇلاۋاتىدۇ"</string>
+<string name="card_title_video_call">كۆرۈشمە تېلېفون</string>
+<string name="card_title_video_call_requesting">"سىن تەلىپىنى يوللاۋاتىدۇ"</string>
+<string name="card_title_video_call_error">"سىن سۆزلىشىشىنى ئۇلىيالمىدى"</string>
+<string name="card_title_callback_number">"\n <xliff:g id="dark_number">%1$s</xliff:g> :سىزنىڭ قايتۇرۇپ ئۇرىدىغان نۇمۇرىڭىز"</string>
+<string name="card_title_callback_number_emergency">"\n <xliff:g id="dark_number">%1$s</xliff:g> :سىزنىڭ جىددىي قايتۇرۇپ ئۇرىدىغان نۇمۇرىڭىز"</string>
+<string name="notification_dialing">"ئۇرىۋاتىدۇ"</string>
+<string name="notification_missedCallTitle">يوقالغان تېلىفۇن</string>
+<string name="notification_missedCallsTitle">قوبۇل قىلىنمىغان تېلفۇن</string>
+<string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> ئىلىنمىغان تېلفۇن</string>
+<string name="notification_missedCallTicker">"دىن كەلگەن قۇبۇل قىلىنمىغان تېلېفون<xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">نۈۋەتتىكى چاقىرىش</string>
+<string name="notification_on_hold">ۋاقىتىنچە توختىتىش</string>
+<string name="notification_incoming_call">"كېلىۋاتقان ئاۋازلىق سۆزلىشىش"</string>
+<string name="notification_incoming_video_call">سۈرەتلىك سۆزلىشىش</string>
+<string name="notification_requesting_video_call">"كېلىۋاتقان سىنلىق سۆزلىشىش تەلىپى"</string>
+<string name="notification_voicemail_title">يىڭى ئاۋاز ئىلخەت</string>
+<string name="notification_voicemail_title_count">يىڭى ئاۋاز ئىلخەت  (<xliff:g id="count">%d</xliff:g>)</string>
+<string name="notification_voicemail_text_format">ئۇرۇش <xliff:g id="voicemail_number">%s</xliff:g></string>
+<string name="notification_voicemail_no_vm_number">ئاۋازلىق  خەت ساندۇقىنىڭ نۇمىرىنى نامەلۇم</string>
+<string name="notification_network_selection_title">ھېچقانداق مۇلازىمەت يوق</string>
+<string name="notification_network_selection_text">تاللانغان (<xliff:g id="operator_name">%s</xliff:g>) تورى ئىناۋەتسىز</string>
+<string name="notification_action_end_call">ئۈزۈش</string>
+<string name="notification_action_answer_video">فىلىم</string>
+<string name="notification_action_answer_voice">ئاۋاز</string>
+<string name="notification_action_accept">"قۇبۇللاش"</string>
+<string name="notification_action_dismiss">تارقىلىش</string>
+<string name="notification_missedCall_call_back">تىلفۇن قايتۇرۇش</string>
+<string name="notification_missedCall_message">ئۇچۇر</string>
+<string name="incall_error_power_off">تىلفۇن ئۇرماقچى بولسىڭىز ئۇچۇش ھالىتىنى تاقىۋىتىڭ.</string>
+<string name="incall_error_emergency_only">توردا تىزىملانمىدى</string>
+<string name="incall_error_out_of_service">كۆچمە خەۋەرلىشىش تورىنى ئىشلىتىشكە ئامالسىز.</string>
+<string name="incall_error_no_phone_number_supplied">چاقىرىشقا ئامالسىز، ئىناۋەتلىك نۇمۇر ئەمەس.</string>
+<string name="incall_error_call_failed">چاقىرىشقا ئامالسىز.</string>
+<string name="incall_status_dialed_mmi">قوزغىتىلغان MMI تىزمىلىرى/u2026</string>
+<string name="incall_error_supp_service_unknown">قوللىمايدىغان مۇلازىمەت.</string>
+<string name="incall_error_supp_service_switch">ئالماشتۇرۇپ ئىشلىتىشكە ئامالسىز.</string>
+<string name="incall_error_supp_service_separate">ئايرىپ چاقىرىشقا ئامالسىز.</string>
+<string name="incall_error_supp_service_transfer">يۆتكەپ چاقىرىشقا ئامالسىز.</string>
+<string name="incall_error_supp_service_conference">يېغىن شەكلىدە تىلفۇن ئىلشىتىشكە ئامالسىز.</string>
+<string name="incall_error_supp_service_reject">چاقىرىشنى رەت قىلىشقا ئامالسىز.</string>
+<string name="incall_error_supp_service_hangup">چاقىرىشنى توختىشىقا ئامالسىز.</string>
+<string name="incall_call_type_label_sip">"سۆزلىشىشىSIP"</string>
+<string name="emergency_enable_radio_dialog_title">جىددى تېلېفون</string>
+<string name="emergency_enable_radio_dialog_message">رادىئونى ئىچىش\u2026</string>
+<string name="emergency_enable_radio_dialog_retry">"...مۇلازىمەت رايونىدا ئەمەس، قايتا سىناۋاتىدۇ"</string>
+<string name="dial_emergency_error">"بولسا جىددىي چاقىرىش نۇمۇرى ئەمەس<xliff:g id="non_emergency_number">%s</xliff:g>.چاقىرىش يوللانمىدى"</string>
+<string name="dial_emergency_empty_error">"چاقىرىش يوللانمىدى. جىددىي چاقىرىش نۇمۇرىغا ئۇرۇڭ"</string>
+<string name="dialerKeyboardHintText">كونۇپكا ئارقىلىق چاقىرىش</string>
+<string name="overflowHoldMenuItemText">"سۆزلىشىشنى ساقلاش"</string>
+<string name="overflowResumeMenuItemText">"سۆزلىشىشنى ئەسلىگە كەلتۈرۈش"</string>
+<string name="overflowAddMenuItemText">"سۆزلىشىشنى قېتىش"</string>
+<string name="overflowMergeMenuItemText">بىرلەشتۈرۈلگەن تېلفۇن (بىرلا ۋاقىتتا سۆزلىشىش)</string>
+<string name="overflowSwapMenuItemText">تىلفۇن ئالماشتۇرماق</string>
+<string name="onscreenHoldText">ساقلاپ قىلىش</string>
+<string name="onscreenEndCallText">ئاخىرلىشىش</string>
+<string name="onscreenShowDialpadText">ئۇرۇش كۇنۇپكىسى</string>
+<string name="onscreenMuteText">"ئۈنسىز"</string>
+<string name="onscreenAddCallText">"سۆزلىشىشنى قېتىش"</string>
+<string name="onscreenMergeCallsText">بىرلەشتۈرۈلگەن تېلفۇن (بىرلا ۋاقىتتا سۆزلىشىش)</string>
+<string name="onscreenSwapCallsText">ئالماشتۇرۇش</string>
+<string name="onscreenManageCallsText">تىلفۇن ئىشلىتىش</string>
+<string name="onscreenManageConferenceText">يىغىن ھالىتدە تىلفۇن ئىشلىتىش</string>
+<string name="onscreenAudioText">ئاۋاز چاستوتىسى</string>
+<string name="onscreenVideoCallText">كۆرۈشمە تېلېفون</string>
+<string name="onscreenChangeToVoiceText">"ئاۋازلىق سۆزلىشىشكە ئۆزگەرتىش"</string>
+<string name="onscreenSwitchCameraText">كامىرا ۋىكلىيۇچاتىلى</string>
+<string name="onscreenPauseVideoText">"سىننى ۋاقىتلىق توختىتىش"</string>
+<string name="onscreenOverflowText">"تېخىمۇ كۆپ تاللاش"</string>
+<string name="voicemail_provider">"مۇلازىمەت"</string>
+<string name="voicemail_settings">تەڭشەك</string>
+<string name="voicemail_number_not_set">"&lt;تەڭشەلمىگەن&gt;"</string>
+<string name="other_settings">باشقا سۆزلىشىش تەڭشەكلىرى</string>
+<string name="calling_via_template">"ئارقىلىق سۆزلىشىش<xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="incoming_via_template">"ئارقىلىق كېلىۋاتىدۇ<xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"ئالاقە سۈرىتى"</string>
+<string name="goPrivate">شەخسىي</string>
+<string name="selectContact">ئالاقىلاشقۇچىنى تاللاش</string>
+<string name="respond_via_sms_custom_message">"...ئۆزى يېزىپ قايتۇرۇش"</string>
+<string name="custom_message_cancel">بىكارلاش</string>
+<string name="custom_message_send">يوللاش</string>
+<string name="description_image_button_one">بىر</string>
+<string name="description_image_button_two">ئىككى</string>
+<string name="description_image_button_three">ئۈچ</string>
+<string name="description_image_button_four">تۆت</string>
+<string name="description_image_button_five">بەش</string>
+<string name="description_image_button_six">ئالتە</string>
+<string name="description_image_button_seven">يەتتە</string>
+<string name="description_image_button_eight">سەككىز</string>
+<string name="description_image_button_nine">توققۇز</string>
+<string name="description_image_button_star">يۇلتۇز بەلگىسى</string>
+<string name="description_image_button_zero">نۆل</string>
+<string name="description_image_button_pound">قاداق</string>
+<string name="description_dial_button">تېلفۇن ئۇرۇش</string>
+<string name="description_delete_button">ئارقىغا قايتۇرۇش</string>
+<string name="accessibility_speakerphone_selected">"ئاۋاز ياڭراتقۇچ تاللاندى"</string>
+<string name="accessibility_earpiece_selected">"تىڭشىغۇچ تاللاندى"</string>
+<string name="accessibility_wired_headset_selected">"سىملىق تىڭشىغۇچ تاللاندى"</string>
+<string name="accessibility_bluetooth_headset_selected">"كۆكچىش تىڭشىغۇچى تاللاندى"</string>
+<string name="accessibility_call_muted">سۆزلىشىش ئاۋازى ئېتىلدى.</string>
+<string name="accessibility_call_unmuted">"ئاۋازسىز سۆزلىشىش بىكارلاندى"</string>
+<string name="accessibility_call_put_on_hold">"سۆزلىشىش ساقلاش ھالىتىگە كىردى"</string>
+<string name="accessibility_call_removed_from_hold">"سۆزلىشىشنى ساقلاش ھالىتى بىكارلاندى"</string>
+<string name="description_target_answer">جاۋاب</string>
+<string name="description_target_send_sms">SMSئۇچۇرىنى يوللاش</string>
+<string name="description_target_decline">چۈشۈش</string>
+<string name="description_target_answer_video_call">"سىنلىق سۆزلىشىش بىلەن جاۋاب قايتۇرۇش"</string>
+<string name="description_target_answer_audio_call">"ئاۋازلىق سۆزلىشىش بىلەن جاۋاب قايتۇرۇش"</string>
+<string name="description_target_accept_upgrade_to_video_request">"سىنلىق سۆزلىشىش تەلىپىنى قۇبۇللاش"</string>
+<string name="description_target_decline_upgrade_to_video_request">"سىنلىق سۆزلىشىش تەلىپىنى رەت قىلىش"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>ئۈستىگە سىيرىش ئارقىلىق"</string>
+<string name="description_direction_left">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>سولغا سىيرىش ئارقىلىق"</string>
+<string name="description_direction_right">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>ئوڭغا سىيرىش ئارقىلىق"</string>
+<string name="description_direction_down">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>ئاستىغا سىيرىش ئارقىلىق"</string>
+<string name="voicemail_notification_vibrate_when_title">"تىترەش"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"تىترەش"</string>
+<string name="voicemail_notification_ringtone_title">"ئاۋاز"</string>
+<string name="default_notification_description">"(<xliff:g id="default_sound_title">%1$s</xliff:g>)سۈكۈتلۈك ئاۋاز"</string>
+<string name="ringtone_title">تېلفۇن قۇڭغۇرۇقى</string>
+<string name="vibrate_on_ring_title">قوڭغۇراق چىلىنغاندا تىترەش</string>
+<string name="dial_pad_autocomplete">"نۇمۇر كىرگۈزۈش كۇنۇپكىسىنىڭ ئاپتوماتىك تولۇقلىنىشى"</string>
+<string name="preference_category_ringtone">"قوڭغىراق ئاۋازى ۋە تىترەش"</string>
+<string name="manageConferenceLabel">يىغىن ھالىتدە تىلفۇن ئىشلىتىش</string>
+<string name="emergency_call_dialog_number_for_display">"جىددىي ئۇرۇدىغان نومۇر"</string>
+<string name="select_account_dialog_title">"كارتىسىنى تاللاڭSIM"</string>
+    <string name="notification_action_answer">جاۋاب</string>
+
+</resources>

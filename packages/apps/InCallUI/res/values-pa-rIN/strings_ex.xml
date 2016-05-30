@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">ਰਿਕਾਰਡ ਸਮਾਂ:</string>
+<string name="onscreenShowRecodText">ਰਿਕਾਰਡ</string>
+<string name="recorderr">ਰਿਕਾਰਡ ਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਅਸਫਲ!</string>
+<string name="audio_db_artist_name">ਤੁਹਾਡੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ।</string>
+<string name="audio_db_album_name">ਕਾਲ ਰਿਕਾਰਡਿੰਗਸ</string>
+<string name="audio_db_playlist_name">ਮੇਰੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ</string>
+<string name="app_name">ਫੋਨ ਅਨੁਪ੍ਰਯੋਗ</string>
+<string name="error_mediadb_new_record">ਰਿਕਾਰਡ ਕੀਤੇ ਆਡੀਓ ਨੂੰ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਮਰਥ</string>
+<string name="sdcard_access_error">sdਕਾਰਡ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦਾ</string>
+<string name="no_sd_card">ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਜਾਂ ਅਨਮਾਊਂਟ ਕੀਤਾ</string>
+<string name="insert_sd_card">ਕਿਰਪਾ ਕਰਕੇ  SD ਕਾਰਡ ਪਾਉ</string>
+<string name="storage_is_full">ਸਟੋਰੇਜ ਪੂਰਨ ਹੈ</string>
+<string name="recording">ਰਿਕਾਰਡਿੰਗ</string>
+<string name="used_by_other_applications">"ਰਿਕਾਰਡਿੰਗ ਉਪਕਰਨ ਹੋਰਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਵੱਲੋਂ ਪ੍ਰਯੋਗ ਕੀਤੇ ਜਾਂਦੇ ਹਨ, ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰੋਗਰਾਮ ਬੰਦ ਕਰੋ"</string>
+    <string name="prompt_record_finish">"ਰਿਕਾਰਡਿੰਗ ਫਾਈਲ ਇਸ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਹੈ"</string>
+    <string name="unknown_area">"ਅਣਜਾਣ ਖੇਤਰ"</string>
+    <string name="call_video_state_change_add">"ਵਰਤਮਾਨ ਕਾਲ ਵੀਡੀਓ ਕਾਲ ਹੈ, ਜੋੜ ਨਹੀਂ ਸਕਦਾ"</string>
+    <string name="call_video_state_change_hold">"ਵਰਤਮਾਨ ਕਾਲ ਵੀਡੀਓ ਕਾਲ ਹੈ, ਹੋਲਡ ਨਹੀਂ ਕਰ ਸਕਦਾ"</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">အခ်ိန္မွတ္ယူပါ:</string>
+<string name="onscreenShowRecodText">အဝင်ဖုန်းrecord</string>
+<string name="recorderr">"မွတ္တမ္းဖိုင္သိမ္းရန္က်ရွံဳး!"</string>
+<string name="audio_db_artist_name">သင့္အသံသြင္းထားခ်က္မ်ား</string>
+<string name="audio_db_album_name">"ဖုန္းရီေကာဒင္းမ်ား"</string>
+<string name="audio_db_playlist_name">မိမိအသံကူးယူခ်က္မ်ား</string>
+<string name="app_name">ဖုန္းပ႐ိုဂရမ္</string>
+<string name="error_mediadb_new_record">သြင္းထားေသာ အသံကို သိမ္းရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="sdcard_access_error">SD ကဒ္မလက္ခံပါ</string>
+<string name="no_sd_card">"SD ကဒ္မရွိ (သို့) အန္ေမာင့္"</string>
+<string name="insert_sd_card">SD ကဒ္ကို သြင္းပါ</string>
+<string name="storage_is_full">သိမ္းဆည္းထားမႈ ျပည့္ေနျပီ</string>
+<string name="recording">အသံသြင္းေနသည္</string>
+<string name="used_by_other_applications">"တျခားပရိုဂရမ္မ်ားမွ ရီေကာဒင္း ပရိုဂရမ္ကိုသံုးေန, ေက်းဇူးျပဳ၍ ပရိုဂရမ္ကို ပိတ္ပါ"</string>
+    <string name="unknown_area">"ဧရိယာ မသိ"</string>
+
+</resources>

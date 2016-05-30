@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">บันทึกเวลา:</string>
+<string name="onscreenShowRecodText">บันทึก</string>
+<string name="recorderr">"บันทึกแฟ้มบันทึกล้มเหลว "</string>
+<string name="audio_db_artist_name">"การบันทึกของคุณ"</string>
+<string name="audio_db_album_name">"โทรบันทึก"</string>
+<string name="audio_db_playlist_name">"การบันทึกของฉัน"</string>
+<string name="app_name">โปรแกรมบนมือถือ</string>
+<string name="error_mediadb_new_record">"บันทึกเสียงที่บันทึกไว้ไม่ได้"</string>
+<string name="sdcard_access_error">ไม่สามารถเข้าถึงSDการ์ด</string>
+<string name="no_sd_card">"SD การ์ดไม่มี หรือยกเลิกการต่อเชื่อม "</string>
+<string name="insert_sd_card">โปรดใส่การ์ดsd</string>
+<string name="storage_is_full">"ที่เก็บข้อมูลเต็ม"</string>
+<string name="recording">"กำลังบันทึก"</string>
+<string name="used_by_other_applications">"อุปกรณ์บันทึกถูกใช้โดยโปรแกรมอื่น,โปรดปิดโปรแกรม"</string>
+    <string name="prompt_record_finish">ไฟล์ที่ได้รับการบันทึกไว้ใน"</string>
+    <string name="unknown_area">"ไม่ทราบพื้นที่"</string>
+    <string name="call_video_state_change_add">"สายปัจจุบันเป็นสายวิดีโอไม่สามารถเพิ่ม"</string>
+    <string name="call_video_state_change_hold">"สายปัจจุบันเป็นสายวิดีโอไม่สามารถถือ"</string>
+
+</resources>

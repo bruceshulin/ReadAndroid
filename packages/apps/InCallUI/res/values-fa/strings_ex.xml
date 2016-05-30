@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">زمان ضبط:</string>
+<string name="onscreenShowRecodText">ضبط</string>
+<string name="recorderr">"عدم موفقیت در ذخیره فایل ضبط شده!"</string>
+<string name="audio_db_artist_name">"موارد ضبط شده شما"</string>
+<string name="audio_db_album_name">"تماس های ضبط شده"</string>
+<string name="audio_db_playlist_name">"موارد ضبط شده من"</string>
+<string name="app_name">برنامه تلفن</string>
+<string name="error_mediadb_new_record">"صدای ضبط شده ذخیره نشد"</string>
+<string name="sdcard_access_error">کارت اس دی در دسترس نیست</string>
+<string name="no_sd_card">عدم وجود یا نصب کارت SD</string>
+<string name="insert_sd_card">لطفاً یک کارت SD را وارد کنید</string>
+<string name="storage_is_full">"ذخیره سازی پر است"</string>
+<string name="recording">"در حال ضبط"</string>
+<string name="used_by_other_applications">"برنامه دیگری از ابزار ضبط استفاده می کند، لطفاً آن برنامه را متوقف کنید"</string>
+    <string name="prompt_record_finish">"فایل ضبط شده ذخیره شد در"</string>
+    <string name="unknown_area">"منطقه نامشخص"</string>
+    <string name="call_video_state_change_add">"تماس فعلی یک تماس ویدئویی است، اضافه نمی شود"</string>
+    <string name="call_video_state_change_hold">"تماس فعلی یک تماس ویدئویی است، نگه داشته نمی شود"</string>
+
+</resources>

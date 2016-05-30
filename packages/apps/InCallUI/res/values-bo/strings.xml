@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">ཁ་པར།</string>
+<string name="onHold">རྒྱུན་འཁྱོངས།</string>
+<string name="unknown">མི་ཤེས་པའི་ཨང་གྲངས།</string>
+<string name="private_num">སྒེར་གྱི་ཨང་གྲངས།</string>
+<string name="payphone">སྤྱི་སྤྱོད་ཁ་པར། </string>
+<string name="confCall">ཁ་པར་ཚོགས་འདུ།</string>
+<string name="call_lost">གཏོང་ལེན་ཆད་ཟིན།</string>
+<string name="ok">རྒྱུས་ལོན་པ།</string>
+<string name="audio_mode_speaker">སྐད་ཕྱིར་གློད།</string>
+<string name="audio_mode_earpiece">ཁ་པར་ཉན་ཆས། </string>
+<string name="audio_mode_wired_headset">སྐུད་ཡོད་རྣར་འཇུག</string>
+<string name="audio_mode_bluetooth">སོ་སྔོན།</string>
+<string name="wait_prompt_str">གཤམ་འོག་གི་སྒྲ་ཟློས་བསྐུར་བ།？\n</string>
+<string name="pause_prompt_str">སྒྲ་ཟློས་བསྐུར་བཞིནཔ།\n</string>
+<string name="send_button">བསྐུར་སྐྱེལ།</string>
+<string name="pause_prompt_yes">རེད།</string>
+<string name="pause_prompt_no">མིན།</string>
+<string name="wild_prompt_str">"ཀུན་འཕྲོད་རྟགས་བརྗེ།"</string>
+<string name="caller_manage_header">ཁ་པར་ཚོགས་འདུ་<xliff:g id="CONF_CALL_TIME">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">སྐད་འཇོག་ཡིག་སྒམ་ཨང་གྲངས།</string>
+<string name="card_title_dialing">ཨང་འབོད་བྱེད་བཞིན་པ།</string>
+<string name="card_title_redialing">བསྐྱར་འབོད་བྱེད་བཞིན་པ།</string>
+<string name="card_title_conf_call">ཁ་པར་ཚོགས་འདུ།</string>
+<string name="card_title_incoming_call">ཁ་པར་འབྱོར་བ།</string>
+<string name="card_title_call_ended">གཏོང་ལེན་མཇུག་སྒྲིལ།</string>
+<string name="card_title_on_hold">རྒྱུན་འཁྱོངས།</string>
+<string name="card_title_hanging_up">འབྲེལ་གཅོད་བྱེད་བཞིན་པ།</string>
+<string name="card_title_in_call">གཏོང་ལེན་བྱེད་བཞིནཔ།</string>
+<string name="card_title_my_phone_number">ངའི་ཁ་པར་ཨང་གྲངས། <xliff:g id="MY_PHONE_NUMBER">%s</xliff:g></string>
+<string name="card_title_video_call_connecting">"བརྙན་ཟློས་ལ་སྦྲེལ་བཞིན་འདུག"</string>
+<string name="card_title_video_call">མཐོང་རུང་བའི་ཁ་པར།</string>
+<string name="card_title_video_call_requesting">"བརྙན་ཟློས་རེ་འདུན་སྐུར་བཞིན་འདུག"</string>
+<string name="card_title_video_call_error">"བརྙན་ཟློས་ཁ་བརྡར་སྦྲེལ་ཐབས་མི་འདུག"</string>
+<string name="card_title_callback_number">"ཁྱེད་ཀྱི་ལྡོག་འབོད་ཨང་གྲངས་\n<xliff:g id="DARK_NUMBER">%1$s</xliff:g>རེད།"</string>
+<string name="card_title_callback_number_emergency">"ཁྱེད་ཀྱི་ལྡོག་འབོད་བྲེལ་མོའི་ཨང་གྲངས་：\n<xliff:g id="DARK_NUMBER">%1$s</xliff:g>"</string>
+<string name="notification_dialing">ཨང་འབོད་བྱེད་བཞིན་པ།</string>
+<string name="notification_missedCallTitle">ལེན་མེད་པའི་ཁ་པར།</string>
+<string name="notification_missedCallsTitle">ལེན་མེད་པའི་ཁ་པར།</string>
+<string name="notification_missedCallsMsg">ལེན་མེད་པའི་ཁ་པར་<xliff:g id="NUM_MISSED_CALLS">%s</xliff:g></string>
+<string name="notification_missedCallTicker"><xliff:g id="MISSED_CALL_FROM">%s</xliff:g>ནས་ཡོང་བའི་ལེན་མེད་པའི་ཁ་པར།</string>
+<string name="notification_ongoing_call">མིག་སྔར་གྱི་ཁ་པར།</string>
+<string name="notification_on_hold">རྒྱུན་འཁྱོངས།</string>
+<string name="notification_incoming_call">"སྐད་སྒྲའི་ནང་འབོད་ཁ་པར།"</string>
+<string name="notification_incoming_video_call">བརྙན་ཟློས་ཁ་པར་ཡོང་བ།</string>
+<string name="notification_requesting_video_call">"བརྙན་ཟློས་ནང་འབོད་ཁར་གྱི་རེ་འདུན།"</string>
+<string name="notification_voicemail_title">སྐད་གདངས་སྦྲགས་ཡིག་གསར་པ</string>
+<string name="notification_voicemail_title_count">སྐད་གདངས་སྦྲགས་ཡིག་གསར་པ་(<xliff:g id="COUNT">%d</xliff:g>)</string>
+<string name="notification_voicemail_text_format"> <xliff:g id="VOICEMAIL_NUMBER">%s</xliff:g>ལ་ཁ་པར་གཏོང་བ།</string>
+<string name="notification_voicemail_no_vm_number">སྐད་འཇོག་ཡིག་སྒམ་ཨང་གྲངས་མི་ཤེས།</string>
+<string name="notification_network_selection_title">ཞབས་ཞུ་མེད།</string>
+<string name="notification_network_selection_text">འདེམས་པའི་དྲ་རྒྱ་（<xliff:g id="OPERATOR_NAME">%s</xliff:g>）བེད་མེད་རེད།</string>
+<string name="notification_action_end_call">འབྲེལ་གཅོས།</string>
+<string name="notification_action_answer_video">བརྙན་ཟློས།</string>
+<string name="notification_action_answer_voice">སྐད་གདངས།</string>
+<string name="notification_action_accept">དང་ལེན།</string>
+<string name="notification_action_dismiss">སྐྱུར་བ།</string>
+<string name="notification_missedCall_call_back">ཕྱིར་ལོག་ཁ་པར།</string>
+<string name="notification_missedCall_message">ཆ་འཕྲིན།</string>
+<string name="incall_error_power_off">སྐད་འབོད་བྱེད་དགོས་ན་སྔོན་ལ་འཕུར་སྐྱོད་དཔེ་རྣམ་ཁ་རྒྱག་དགོས།</string>
+<string name="incall_error_emergency_only">དྲ་རྒྱར་ཐོ་འགོད་མི་འདུག</string>
+<string name="incall_error_out_of_service">འགུལ་སྐྱོད་ཀྱི་དྲ་རྒྱར་འཚམས་འདྲི་མི་ཐུབ།</string>
+<string name="incall_error_no_phone_number_supplied">ནང་འཇུག་བྱས་པའི་ཨང་གྲངས་ནུས་མེད་ཡིན་པས་ཨང་འབོད་ཕྱིར་གཏོང་མི་ཐུབ། </string>
+<string name="incall_error_call_failed">ཨང་འབོད་ཕྱིར་གཏོང་མི་ཐུབ།</string>
+<string name="incall_status_dialed_mmi">MMIརིམ་སྟར་འགོ་སློང་བཞིན་པ།...</string>
+<string name="incall_error_supp_service_unknown">ཞབས་ཞུ་འདིར་རྒྱབ་སྐྱོར་མེད།</string>
+<string name="incall_error_supp_service_switch">གཏོང་ལེན་ལ་བརྗེ་མི་ཐུབ།</string>
+<string name="incall_error_supp_service_separate">གཏོང་ལེན་དབྱེ་གྱེས་མི་ཐུབ།</string>
+<string name="incall_error_supp_service_transfer">སྐད་འབོད་སྤོ་མི་ཐུབ།</string>
+<string name="incall_error_supp_service_conference">ཁ་པར་ཚོགས་འདུ་བཀོལ་མི་ཐུབ།</string>
+<string name="incall_error_supp_service_reject">སྐད་འབོད་འགོག་མི་ཐུབ།</string>
+<string name="incall_error_supp_service_hangup">འབྲེལ་གཅོད་མི་ཐུབ།</string>
+<string name="incall_call_type_label_sip">"SIPཁ་པར།"</string>
+<string name="emergency_enable_radio_dialog_title">ཛ་དྲག་སྐྱོབ་རོགས།</string>
+<string name="emergency_enable_radio_dialog_message">གནམ་སྐུད་ཁ་ཕྱེ་བཞིན་པ།...</string>
+<string name="emergency_enable_radio_dialog_retry">ཞབས་ཞུ་ཁུལ་དུ་མི་འདུག བསྐྱར་ལྟ་བྱེད་བཞིན་པ།...</string>
+<string name="dial_emergency_error">"མ་བའི་ཁ་པར། <xliff:g id="non_emergency_number">%s</xliff:g>ནི་འབྲེལ་འབོད་ཨང་གྲངས་མིན།"</string>
+<string name="dial_emergency_empty_error">"ཁ་པར་མ་བཏང་། བྲེལ་འབོད་ཁ་པར་གཏོང་རོགས།"</string>
+<string name="dialerKeyboardHintText">མཐེབ་གཞོང་བེད་སྤྱད་ནས་ཨང་འབོད་པ།</string>
+<string name="overflowHoldMenuItemText">"ཁ་བརྡ་རྒྱུན་མཐུད།"</string>
+<string name="overflowResumeMenuItemText">"ཁ་བརྡ་སོར་ཆུད།"</string>
+<string name="overflowAddMenuItemText">གཏོང་ལེན་ཁ་སྣོན།</string>
+<string name="overflowMergeMenuItemText">གཏོང་ལེན་མཉམ་སྒྲིལ།</string>
+<string name="overflowSwapMenuItemText">གཏོང་ལེན་བརྗེ་རེས།</string>
+<string name="onscreenHoldText">རྒྱུན་འཁྱོངས།</string>
+<string name="onscreenEndCallText">འབྲེལ་གཅོད།</string>
+<string name="onscreenShowDialpadText">ཨང་འབོད་མཐེབ་གཞོང་།</string>
+<string name="onscreenMuteText">སྒྲ་མེད།</string>
+<string name="onscreenAddCallText">གཏོང་ལེན་ཁ་སྣོན།</string>
+<string name="onscreenMergeCallsText">གཏོང་ལེན་མཉམ་སྒྲིལ།</string>
+<string name="onscreenSwapCallsText">བརྗེ་རེས།</string>
+<string name="onscreenManageCallsText">གཏོང་ལེན་དོ་དམ།</string>
+<string name="onscreenManageConferenceText">ཁ་པར་ཚོགས་འདུར་དོ་དམ།</string>
+<string name="onscreenAudioText">སྒྲ་ཟློས།</string>
+<string name="onscreenVideoCallText">མཐོང་རུང་བའི་ཁ་པར།</string>
+<string name="onscreenChangeToVoiceText">"སྐད་སྒྲའི་ཁ་བརྡ་རུ་སྒྱུར།"</string>
+<string name="onscreenSwitchCameraText">བརྙན་མིག་བརྗེ་བ།</string>
+<string name="onscreenPauseVideoText">"བརྙན་ཟློས་སྒྲོག་གཏོང་གི་འཕྲལ་མཚམས་འཇོག"</string>
+<string name="onscreenOverflowText">འདེམ་སྣ་མང་པོ།</string>
+<string name="voicemail_provider">"ཞབས་ཞུ།"</string>
+<string name="voicemail_settings">སྒྲིག་འཇུག</string>
+<string name="voicemail_number_not_set">"&lt;སྒྲིག་འགོད་བྱས་མེད།amp;gt;"</string>
+<string name="other_settings">དེ་མིན་གཏོང་ལེན་དཔེ་རྣམ།</string>
+<string name="calling_via_template">" <xliff:g id="provider_name">%s</xliff:g>བརྒྱུད་ནས་ཁ་པར་གཏོང་།"</string>
+<string name="incoming_via_template">"<xliff:g id="PROVIDER_NAME">%s</xliff:g>བརྒྱུད་པའི་ཚུར་འབོད།"</string>
+<string name="contactPhoto">འབྲེལ་གཏུག་པའི་འདྲ་པར།</string>
+<string name="goPrivate">སྒེར་བརྡ།</string>
+<string name="selectContact">འབྲེལ་གཏུག་པ་འདེམས་པ།</string>
+<string name="respond_via_sms_custom_message">"རང་ཉིད་ཀྱིས་འབྲི..."</string>
+<string name="custom_message_cancel">སྐྱུར་བ།</string>
+<string name="custom_message_send">བསྐུར་སྐྱེལ།</string>
+<string name="description_image_button_one">གཅིག</string>
+<string name="description_image_button_two">གཉིས།</string>
+<string name="description_image_button_three">གསུམ།</string>
+<string name="description_image_button_four">བཞི།</string>
+<string name="description_image_button_five">ལྔ།</string>
+<string name="description_image_button_six">དྲུག</string>
+<string name="description_image_button_seven">བདུན།</string>
+<string name="description_image_button_eight">བརྒྱད།</string>
+<string name="description_image_button_nine">དགུ།</string>
+<string name="description_image_button_star">སྐར་དབྱིབས་མཚོན་རྟགས།</string>
+<string name="description_image_button_zero">ཀླད་ཀོར།</string>
+<string name="description_image_button_pound">དབྱིན་སྒོར། </string>
+<string name="description_dial_button">ཁ་པར་རྒྱག་པ།</string>
+<string name="description_delete_button">མིག་ཟློག</string>
+<string name="accessibility_speakerphone_selected">"སྒྲ་སྒྲོག་ཆས་བདམས་ཟིན།"</string>
+<string name="accessibility_earpiece_selected">"ཁ་པར་གྱི་ཉན་དུང་བདམས་ཟིན།"</string>
+<string name="accessibility_wired_headset_selected">"སྐུད་ལྡན་རྣར་གཞུག་བདམས་ཟིན།"</string>
+<string name="accessibility_bluetooth_headset_selected">"སོ་སྔོན་རྣར་གཞུག་བདམས་ཟིན།"</string>
+<string name="accessibility_call_muted">ཁ་བརྡ་སྒྲ་མེད་དུ་བཏང་ཟིན། </string>
+<string name="accessibility_call_unmuted">"ཁ་བརྡའི་སྒྲ་འཇགས་བླང་།"</string>
+<string name="accessibility_call_put_on_hold">"ཁ་བརྡ་རྒྱུན་མཁྱོངས་རྣམ་པར་བཞག"</string>
+<string name="accessibility_call_removed_from_hold">"ཁ་བརྡ་རྒྱུན་མཁྱོངས་རྣམ་པ་བཀྲོལ་ཟིན།"</string>
+<string name="description_target_answer">ལེན་པ།</string>
+<string name="description_target_send_sms">འཕྲིན་ཐུང་བསྐུར་བ། </string>
+<string name="description_target_decline">ཁས་ལེན་མི་བྱེད།</string>
+<string name="description_target_answer_video_call">"བརྙན་ཟློས་ཁ་པར་རྣམ་པས་ཉན།"</string>
+<string name="description_target_answer_audio_call">"སྒྲ་ཟློས་ཁ་པར་རྣམ་པས་ཉན།"</string>
+<string name="description_target_accept_upgrade_to_video_request">"བརྙན་ཟློས་རེ་འདུན་དང་ལེན་བྱེད།"</string>
+<string name="description_target_decline_upgrade_to_video_request">"བརྙན་ཟློས་རྣམ་པ་དང་ལེན་བྱེད།"</string>
+<string name="description_direction_up">"གོང་དུ་<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>ལ་འདྲེད།"</string>
+<string name="description_direction_left">"གཡོན་དུ་<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>འདྲེད།"</string>
+<string name="description_direction_right">"གཡས་སུ་<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>འདྲེད།"</string>
+<string name="description_direction_down">"འོག་ཏུ་<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>ལ་འདྲེད།"</string>
+<string name="voicemail_notification_vibrate_when_title">འདར་འགུལ།</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">འདར་འགུལ།</string>
+<string name="voicemail_notification_ringtone_title">སྒྲ་ནུས།</string>
+<string name="default_notification_description">"རང་ལེན་དྲན་སྐུལ་སྒྲ།(<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">ཁ་པར་དྲིལ་སྒྲ།</string>
+<string name="vibrate_on_ring_title">སྒྲ་གྲགས་པ་དང་ཆབ་གཅིག་འགུལ་བ།</string>
+<string name="dial_pad_autocomplete">"ཨང་འབོད་མཐེབ་གནོན་རང་འགུལ་གྱིས་ཁ་ཚང་བར་འགྱུར།"</string>
+<string name="preference_category_ringtone">"དྲིལ་སྒྲ་དང་འདར་འགུལ།"</string>
+<string name="manageConferenceLabel">ཁ་པར་ཚོགས་འདུར་དོ་དམ།</string>
+<string name="emergency_call_dialog_number_for_display">ཛ་དྲག་ཨང་གྲངས།</string>
+<string name="select_account_dialog_title">"SIMབྱང་བུ་འདམ་རོགས།"</string>
+    <string name="notification_action_answer">ལེན་པ།</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Opnametijd:</string>
+<string name="onscreenShowRecodText">"Opnemen"</string>
+<string name="recorderr">"opname bestand opslaan gefaald!"</string>
+<string name="audio_db_artist_name">"Uw opnamen"</string>
+<string name="audio_db_album_name">"Oproep opnames"</string>
+<string name="audio_db_playlist_name">"Mijn opnamen"</string>
+<string name="app_name">App!</string>
+<string name="error_mediadb_new_record">"Kan opgenomen audio niet opslaan"</string>
+<string name="sdcard_access_error">Kan sdkaart niet bereiken</string>
+<string name="no_sd_card">GEEN SD kaart of ONTKOPPELD</string>
+<string name="insert_sd_card">"Plaats een SD-kaart"</string>
+<string name="storage_is_full">"Opslagruimte is vol"</string>
+<string name="recording">“Opnemende”</string>
+<string name="used_by_other_applications">"Opname-apparatuur word gebruikt door andere programma\'s, sluit het programma"</string>
+    <string name="prompt_record_finish">"Het opnamebestand werd bewaard op"</string>
+    <string name="unknown_area">Onbekend gebied</string>
+    <string name="call_video_state_change_add">"huidige oproep is een video oproep, kan niet toevoegen"</string>
+    <string name="call_video_state_change_hold">"huidige oproep is een video oproep, kan niet in wacht plaatsen"</string>
+
+</resources>

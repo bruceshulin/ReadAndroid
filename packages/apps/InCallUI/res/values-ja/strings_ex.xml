@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">記録時間：キロクｼﾞカン</string>
+<string name="onscreenShowRecodText">撮影</string>
+<string name="recorderr">"記録ファイルの保存に失敗しました"</string>
+<string name="audio_db_artist_name">"録音リスト"</string>
+<string name="audio_db_album_name">コール記録キロク</string>
+<string name="audio_db_playlist_name">"マイ録音"</string>
+<string name="app_name">電話アプリﾃﾞンワ</string>
+<string name="error_mediadb_new_record">"録音を保存できません"</string>
+<string name="sdcard_access_error">"SDカードにアクセスできません"</string>
+<string name="no_sd_card">SDカードが存在しないもしくは搭載されていませんソンｻﾞイトウサイ</string>
+<string name="insert_sd_card">SDカードを挿入してください</string>
+<string name="storage_is_full">"メモリがいっぱいです"</string>
+<string name="recording">"録音中"</string>
+<string name="used_by_other_applications">"録音機器は他のプログラムに利用されています、先にそのプログラムをオフにしてください"</string>
+    <string name="unknown_area">選択した通話記録を削除する</string>
+
+</resources>

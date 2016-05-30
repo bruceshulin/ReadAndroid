@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Време снимања:"</string>
+<string name="onscreenShowRecodText">"Снимање..."</string>
+<string name="recorderr">"Датотека за снимање се није снимила!"</string>
+<string name="audio_db_artist_name">"Ваши снимци"</string>
+<string name="audio_db_album_name">"Записи позива"</string>
+<string name="audio_db_playlist_name">"Моји снимци"</string>
+<string name="app_name">"Апликација за телефон"</string>
+<string name="error_mediadb_new_record">"Није могуће сачувати снимљени звук."</string>
+<string name="sdcard_access_error">"Није могуће приступити SD картици"</string>
+<string name="no_sd_card">"Нема SD картице или картица НИЈЕ ИНСТАЛИРАНА"</string>
+<string name="insert_sd_card">"Молимо убаците SD картицу"</string>
+<string name="storage_is_full">"Складиште је пуно"</string>
+<string name="recording">"Снимање"</string>
+<string name="used_by_other_applications">"Опрему за снимање користе други програми, молимо угасите програме"</string>
+    <string name="prompt_record_finish">"Датотека за снимање је снимљена у"</string>
+    <string name="unknown_area">"Непознато подручје"</string>
+    <string name="call_video_state_change_add">"тренутни позив је видео позив, није могуће додати"</string>
+    <string name="call_video_state_change_hold">"тренутни позив је видео позив, није могуће задржати позив"</string>
+
+</resources>

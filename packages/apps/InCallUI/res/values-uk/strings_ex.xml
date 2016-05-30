@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"рекордно короткі терміни:"</string>
+<string name="onscreenShowRecodText">Запис</string>
+<string name="recorderr">Не вдалося зберегти файл запису!</string>
+<string name="audio_db_artist_name">"Ваші записи"</string>
+<string name="audio_db_album_name">"Аудіозаписи"</string>
+<string name="audio_db_playlist_name">"Мої записи"</string>
+<string name="app_name">"Телефон App"</string>
+<string name="error_mediadb_new_record">"Неможл. зберегти записане аудіо"</string>
+<string name="sdcard_access_error">"Відсутній доступ до sd-карти"</string>
+<string name="no_sd_card">"НІ карти SD або демонтована"</string>
+<string name="insert_sd_card">"Please insert an SD card"</string>
+<string name="storage_is_full">"Пам\'ять заповнена"</string>
+<string name="recording">"Запис"</string>
+<string name="used_by_other_applications">"записуючий пристрій використовується іншими програмами. Будь ласка, закрийте програму"</string>
+    <string name="unknown_area">Невідома область </string>
+
+</resources>

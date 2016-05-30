@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">રેકોર્ડ સમય:</string>
+<string name="onscreenShowRecodText">રેકોર્ડીંગ</string>
+<string name="recorderr">"રેકોર્ડ ફાઇલ સેવ નિષ્ફળ ગયું છે!"</string>
+<string name="audio_db_artist_name">"તમારા રેકોર્ડિંગ્ઝ"</string>
+<string name="audio_db_album_name">કોલ રેકોર્ડીંગ્સ</string>
+<string name="audio_db_playlist_name">"મારું રેકોર્ડિંગ્ઝ"</string>
+<string name="app_name">ફોન અનુપ્રયોગ</string>
+<string name="error_mediadb_new_record">"રેકોર્ડેડ ઓડિયો સંગ્રહ કરવામાં નિષ્ફળ"</string>
+<string name="sdcard_access_error">"SD કાર્ડમાં ઍક્સેસ કરી શકે તેમ નથી"</string>
+<string name="no_sd_card">SD કાર્ડ નથી અથવા અનમાઉન્ટેડ છે.</string>
+<string name="insert_sd_card">"કૃપા કરી SD કાર્ડ દાખલ કરો"</string>
+<string name="storage_is_full">"સંગ્રહ સંપૂર્ણ"</string>
+<string name="recording">"રેકોર્ડીંગ"</string>
+<string name="used_by_other_applications">"રેકોર્ડીંગ સાધન અન્ય કાર્યક્રમો દ્વારા ઉપયોગમાં છે, કૃપયા કાર્યક્રમને શટ ડાઉન કરો"</string>
+    <string name="prompt_record_finish">"રેકોર્ડીંગ ફાઇલ સેવ થઇ છે "</string>
+    <string name="unknown_area">"અજ્ઞાત વિસ્તાર"</string>
+    <string name="call_video_state_change_add">"પ્રવર્તમાન કોલ વીડિયો કોલ છે, ઉમેરી શકે તેમ નથી "</string>
+    <string name="call_video_state_change_hold">"પ્રવર્તમાન કોલ વીડિયો કોલ છે, હોલ્ડ કરી શકે તેમ નથી "</string>
+
+</resources>

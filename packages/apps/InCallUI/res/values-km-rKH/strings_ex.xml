@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"ពេលកត់ត្រា៖"</string>
+<string name="onscreenShowRecodText"> ធ្វើការថតសម្លេង</string>
+<string name="recorderr">"ឯកសារកំណត់ត្រាមិនបានរក្សាទុកដោយជោគជ័យទេ!"</string>
+<string name="audio_db_artist_name">សម្លេងថតរបស់លោក</string>
+<string name="audio_db_album_name">ការថតសម្លេងការហៅ</string>
+<string name="audio_db_playlist_name">សម្លេងថតរបស់ខ្ញុំ</string>
+<string name="app_name">"កម្មវិធីអាប្បរបស់ទូរស័ព្ទ"</string>
+<string name="error_mediadb_new_record">មិនអាចរក្សាទុកសម្លេងថតបាន</string>
+<string name="sdcard_access_error">មិនអាចចូលអានកាតsd</string>
+<string name="no_sd_card">គ្មានកាតSDឬមិនទាន់ដំឡើង</string>
+<string name="insert_sd_card">"សូមស៊កបញ្ចូលកាតSD"</string>
+<string name="storage_is_full">អង្គចងចាំពេញហើយ</string>
+<string name="recording">ការថតសម្លេង</string>
+<string name="used_by_other_applications">"ឧបករណ៍ថតសម្លេងកំពុងប្រើប្រាស់ដោយកម្មវិធីផ្សេងទៀត សូមបិទកម្មវិធីនោះចោលសិន"</string>
+    <string name="prompt_record_finish">ឯកសារខ្សែអាត់សម្លេងត្រូវបានរក្សាទុកទៅកាន់</string>
+    <string name="unknown_area">តំបន់ដែលមិនស្គាល់</string>
+    <string name="call_video_state_change_add">ការហៅទូរស័ព្ទអម្បាញ់មិញជាការហៅជាវីដេអូ មិនអាចបន្ថែមចំនួនមនុស្សបានទេ</string>
+    <string name="call_video_state_change_hold">ការហៅទូរស័ព្ទអម្បាញ់មិញជាការហៅជាវីដេអូ មិនអាចលើកទូរស័ព្ទបានទេ</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">रिकॉर्ड समय:</string>
+<string name="onscreenShowRecodText">रिकॉर्ड</string>
+<string name="recorderr">"दर्ज फाइल सेव असफल!"</string>
+<string name="audio_db_artist_name">"आपकी रिकॉर्डिंग"</string>
+<string name="audio_db_album_name">"कॉल रिकार्डिंग्स"</string>
+<string name="audio_db_playlist_name">"मेरी रिकॉर्डिंग"</string>
+<string name="app_name">फोन एप्लिकेशन</string>
+<string name="error_mediadb_new_record">"रिकॉर्ड किया गया ऑडियो सहेजने में असमर्थ"</string>
+<string name="sdcard_access_error">Sdकार्ड तक पहुंच नहीं</string>
+<string name="no_sd_card">"कोई SD कार्ड नहीं अथवा उतारा हुआ"</string>
+<string name="insert_sd_card">कृपया SD कार्ड दर्ज करें.</string>
+<string name="storage_is_full">"संग्रहण भर गया है"</string>
+<string name="recording">"रिकॉर्ड हो रहा है"</string>
+<string name="used_by_other_applications">"रिकॉर्डिंग उपकरण अन्य प्रोग्रामों द्वारा प्रयुक्त किया गया है, कृपया प्रोग्राम को बंद करें"</string>
+    <string name="prompt_record_finish">"रिकॉर्डिंग फाइल इसमें सुरक्षित की गई है"</string>
+    <string name="unknown_area">"अज्ञात क्षेत्र"</string>
+    <string name="call_video_state_change_add">"वर्तमान कॉल वीडियो कॉल है, जोड़ नहीं सकता"</string>
+    <string name="call_video_state_change_hold">"वर्तमान कॉल वीडियो कॉल है, होल्ड नहीं कर सकता"</string>
+
+</resources>

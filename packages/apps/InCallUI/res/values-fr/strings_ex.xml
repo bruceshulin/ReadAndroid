@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">temps d\'enregistrement:</string>
+<string name="onscreenShowRecodText">Enreg.</string>
+<string name="recorderr">"Echec de la sauvegarde de l\'enregistrement !"</string>
+<string name="audio_db_artist_name">"Vos enregistrements audio"</string>
+<string name="audio_db_album_name">"Enregistrements d\'appels"</string>
+<string name="audio_db_playlist_name">"Mes enregistrements audio"</string>
+<string name="app_name">"Application du téléphone"</string>
+<string name="error_mediadb_new_record">"Impossible de sauvegarder la piste audio enregistrée"</string>
+<string name="sdcard_access_error">Accès impossible à la carte SD</string>
+<string name="no_sd_card">"PAS de carte SD ou NON MONTE"</string>
+<string name="insert_sd_card">"Insérez une carte SD"</string>
+<string name="storage_is_full">"La mémoire est pleine"</string>
+<string name="recording">"Enregistrement audio"</string>
+<string name="used_by_other_applications">"L\'équipement d\'enregistrement sont utilisés par d\'autres programmes, arrêter SVP le programme"</string>
+    <string name="prompt_record_finish">"Le fichier d\'enregistrement a été sauvegardé"</string>
+    <string name="unknown_area">Zone inconnue</string>
+    <string name="call_video_state_change_add">"L\'appel en cours est un appel vidéo, ne peut pas etre ajouter"</string>
+    <string name="call_video_state_change_hold">"L\'appel en cours est un appel vidéo, ne peut pas durer"</string>
+
+</resources>

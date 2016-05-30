@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">tempo di registrazione</string>
+<string name="onscreenShowRecodText">Registrazione</string>
+<string name="recorderr">Salvataggio file di registrazione non riuscito!</string>
+<string name="audio_db_artist_name">"Registrazioni"</string>
+<string name="audio_db_album_name">Registrazioni chiamata</string>
+<string name="audio_db_playlist_name">"Registrazioni personali"</string>
+<string name="app_name">App del telefono</string>
+<string name="error_mediadb_new_record">"Impossibile salvare l\'audio registrato"</string>
+<string name="sdcard_access_error">Impossibile accedere alla scheda SD</string>
+<string name="no_sd_card">scheda SD non presente o smontata</string>
+<string name="insert_sd_card">"Inserisci una scheda SD"</string>
+<string name="storage_is_full">"La memoria è piena"</string>
+<string name="recording">"Registrazione in corso"</string>
+<string name="used_by_other_applications">"Gli strumenti per la registrazione sono in uso da altri programmi, si prega di chiudere il programma"</string>
+    <string name="unknown_area">Area sconosciuta</string>
+
+</resources>

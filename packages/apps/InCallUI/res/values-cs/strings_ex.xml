@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Doba nahrávání:</string>
+<string name="onscreenShowRecodText">"Záznam"</string>
+<string name="recorderr">"uložení souboru záznamu se nepovedlo!"</string>
+<string name="audio_db_artist_name">"Vaše záznamy"</string>
+<string name="audio_db_album_name">"Nahrávky hovoru"</string>
+<string name="audio_db_playlist_name">"Mé záznamy"</string>
+<string name="app_name">Aplikace telefonu</string>
+<string name="error_mediadb_new_record">"Zaznamenaný zvuk nelze uložit"</string>
+<string name="sdcard_access_error">Není možný přístup k sdkartě</string>
+<string name="no_sd_card">"ŽÁDNÁ SD karta anebo NEINSTALOVÁNA"</string>
+<string name="insert_sd_card">"Vložte prosím kartu SD"</string>
+<string name="storage_is_full">"Úložiště je plné"</string>
+<string name="recording">"Záznam"</string>
+<string name="used_by_other_applications">"Nahrávací zařízení používají jiné programy, prosím, vypněte program"</string>
+    <string name="prompt_record_finish">"Nahrávací soubor byl uložen do"</string>
+    <string name="unknown_area">"Neznámá oblast"</string>
+    <string name="call_video_state_change_add">"aktuální hovor je videohovor, nelze přidat"</string>
+    <string name="call_video_state_change_hold">"aktuální hovor je videohovor, nelze přidržet"</string>
+
+</resources>

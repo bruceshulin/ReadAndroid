@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprd Add-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recording">"录音" </string>
+    <string name="record_time">"记录时间："</string>
+    <string name="onscreenShowRecodText">"记录"</string>
+    <string name="recorderr">"记录文件保存失败"</string>
+    <string name="audio_db_artist_name">"您的录音"</string>
+    <string name="audio_db_album_name">"电话录音"</string>
+    <string name="audio_db_playlist_name">"我的录音"</string>
+    <string name="app_name">"手机应用程序"</string>
+    <string name="error_mediadb_new_record">"无法保存录制的音频"</string>
+    <string name="sdcard_access_error">"无法访问SD卡"</string>
+    <string name="no_sd_card">"无SD卡或未挂载"</string>
+    <string name="insert_sd_card">"请插入SD卡"</string>
+    <string name="storage_is_full">"存储空间已满"</string>
+    <string name="used_by_other_applications">"录音设备正在被其他程序使用中，请先关闭此类程序"</string>
+    <!-- SPRD:modify for Bug382007 -->
+    <string name="prompt_record_finish">"录音文件已经保存到"</string>
+    <string name="unknown_area">"未知号码区域"</string>
+    <!-- SPRD: fix bug 397142.  @{-->
+    <string name="call_video_state_change_hold">"当前来电为视频电话，无法保持"</string>
+    <string name="call_video_state_change_add">"当前来电为视频电话，无法添加"</string>
+    <!-- @} -->
+    <!-- SPRD:modify for Bug410334 -->
+    <string name="main_card_slot">"主卡 :"</string>
+    <string name="gsm_card_slot">"副卡 :"</string>
+
+    <string name="onscreenInviteText">"邀请"</string>
+</resources>

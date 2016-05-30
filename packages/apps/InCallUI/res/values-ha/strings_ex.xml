@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">An kunna dauka</string>
+<string name="onscreenShowRecodText">A nada</string>
+<string name="recorderr">"adana fayil na rekod ya gaza!"</string>
+<string name="audio_db_artist_name">Dauka/rikodin dinka</string>
+<string name="audio_db_album_name">"Rekodin kira"</string>
+<string name="audio_db_playlist_name">Daukawa nawa</string>
+<string name="app_name">Tsarin shirye shiryen cikin waya</string>
+<string name="error_mediadb_new_record">An kasa ajiye sauti da aka dauka</string>
+<string name="sdcard_access_error">Ba zai iya isa katin SD ba</string>
+<string name="no_sd_card">Babu katin SD ko kuma an cire</string>
+<string name="insert_sd_card">Sanya SD card</string>
+<string name="storage_is_full">Ma\'adana ta cika</string>
+<string name="recording">Ana nada</string>
+<string name="used_by_other_applications">"Na\'urar rikodin ana amfani da shi a wasu shirin, ka kashe shirin"</string>
+    <string name="prompt_record_finish">"Fayil da ake rikodin an adana shi ga"</string>
+    <string name="unknown_area">"Majahulin wuri"</string>
+    <string name="call_video_state_change_add">"kiran yanzu kiran bidiyo ne, ba zai iya karawa ba"</string>
+    <string name="call_video_state_change_hold">"kiran yanzu kiran bidiyo ne, ba zai iya rikewa ba"</string>
+
+</resources>

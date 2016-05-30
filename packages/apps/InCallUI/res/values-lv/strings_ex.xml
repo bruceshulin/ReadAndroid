@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Ieraksta Laiks"</string>
+<string name="onscreenShowRecodText">"Ierakstīt"</string>
+<string name="recorderr">"Ierakstītā faila saglabāšana neveiksmīga!"</string>
+<string name="audio_db_artist_name">"Jūsu ieraksti"</string>
+<string name="audio_db_album_name">"Zvanu ieraksti"</string>
+<string name="audio_db_playlist_name">"Mani ieraksti"</string>
+<string name="app_name">"Telefona Aplikācija"</string>
+<string name="error_mediadb_new_record">"Nevarēja saglabāt ierakstīto audio."</string>
+<string name="sdcard_access_error">"Nevar piekļūt sd kartei"</string>
+<string name="no_sd_card">"NAV SD kartes vai ATSTATĪTA"</string>
+<string name="insert_sd_card">"Lūdzu, ievietojiet SD karti"</string>
+<string name="storage_is_full">"Krātuve ir pilna"</string>
+<string name="recording">"Notiek ierakstīšana"</string>
+<string name="used_by_other_applications">"Ierakstīšanas aparatūru izmanto citas programmas, lūdzu, izslēdziet programmu"</string>
+    <string name="prompt_record_finish">"Ierakstīšanas fails ir saglabāts iekš"</string>
+    <string name="unknown_area">"Nezināms apgabals"</string>
+    <string name="call_video_state_change_add">"esošais zvans ir videozvans, nevar pievienot"</string>
+    <string name="call_video_state_change_hold">"esošais zvans ir videozvans, nevar atlikt"</string>
+
+</resources>

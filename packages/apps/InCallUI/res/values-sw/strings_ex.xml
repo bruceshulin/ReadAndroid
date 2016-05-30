@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">Saa za rekodi:</string>
+<string name="onscreenShowRecodText">Rekodi</string>
+<string name="recorderr">"kuhifadhi faili ya rekodi kumefeli!"</string>
+<string name="audio_db_artist_name">"Rekodi zako"</string>
+<string name="audio_db_album_name">"Rekodi za simu"</string>
+<string name="audio_db_playlist_name">Rekodi zangu</string>
+<string name="app_name">Simu App</string>
+<string name="error_mediadb_new_record">Imeshidwa kuhifadhi sauti iliyonaswa</string>
+<string name="sdcard_access_error">Haiwezi fikia kadi ya sd</string>
+<string name="no_sd_card">HAKUNA KADI YA SD AU IMEONDOLEWA</string>
+<string name="insert_sd_card">Tafadhali ingiza kadi ya SD</string>
+<string name="storage_is_full">Hifadhi imejaa</string>
+<string name="recording">"Rekodi"</string>
+<string name="used_by_other_applications">"Vifaa vya kurekodi vinatumiwa na programu zingine, tafadhali zima programu"</string>
+    <string name="prompt_record_finish">" faili ya kurekodi umehifadhiwa"</string>
+    <string name="unknown_area">"Pahali pasipojulikana"</string>
+    <string name="call_video_state_change_add">"simu ya sasa ni ya video, haiwezi kuongeza"</string>
+    <string name="call_video_state_change_hold">"simu ya sasa ni ya video, haiwezi  ngoja"</string>
+
+</resources>

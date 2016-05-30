@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">oras sa rekord:</string>
+<string name="onscreenShowRecodText">Rekord</string>
+<string name="recorderr">"irekord ang payl ang pagtigum kay napakyas!"</string>
+<string name="audio_db_artist_name">Imu mga gipangrekord.</string>
+<string name="audio_db_album_name">"Tawagi ang mga gipangrekord"</string>
+<string name="audio_db_playlist_name">Ako mga gipangrekord</string>
+<string name="app_name">telepono App</string>
+<string name="error_mediadb_new_record">Di mahimong ma-save ang mga gi-rekord nga mga audio</string>
+<string name="sdcard_access_error">Dili ma gamit ang sdkard</string>
+<string name="no_sd_card">"Walay SD kard o wala nagmontar"</string>
+<string name="insert_sd_card">Palihug pagsuksuk ug SD card</string>
+<string name="storage_is_full">Imbakan kay puno</string>
+<string name="recording">Nagrekord</string>
+<string name="used_by_other_applications">"Ang pagrekord nga mga gamit kay gipanggamit pa sa uban nga mga programa, palihug pagpawng sa mga programa"</string>
+    <string name="prompt_record_finish">"Ang narekord nga payl kay nasalba ngadto sa"</string>
+    <string name="unknown_area">"Wala mailhi nga lugar"</string>
+    <string name="call_video_state_change_add">"kasamtangan nga tawag kay bidyo nga tawag, dili makadugang"</string>
+    <string name="call_video_state_change_hold">"kasamtangan nga tawag kay bidyo nga tawag, dili makahupot"</string>
+
+</resources>

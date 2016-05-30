@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Temps d\'enregistrament:"</string>
+<string name="onscreenShowRecodText">"Enregistra"</string>
+<string name="recorderr">"No s\'ha pogut guardar el fitxer d\'enregistrament!"</string>
+<string name="audio_db_artist_name">"Els teus enregistraments"</string>
+<string name="audio_db_album_name">"Registres de trucades"</string>
+<string name="audio_db_playlist_name">"Els meus enregistraments"</string>
+<string name="app_name">"Aplicació del telèfon"</string>
+<string name="error_mediadb_new_record">"No s\'ha pogut desar l\'àudio registrat."</string>
+<string name="sdcard_access_error">"No es pot accedir a la targeta SD"</string>
+<string name="no_sd_card">"No hi ha targeta SD o està DESMUNTADA"</string>
+<string name="insert_sd_card">"Introduïu una targeta SD"</string>
+<string name="storage_is_full">"L\'emmagatzematge és ple"</string>
+<string name="recording">"S\'està enregistrant"</string>
+<string name="used_by_other_applications">"Hi ha altres programes que estan utilitzant els dispositius d\'enregistrament, apagueu aquest programa"</string>
+    <string name="prompt_record_finish">"El fitxer d\'enregistrament s\'ha desat a"</string>
+    <string name="unknown_area">"Zona desconeguda"</string>
+    <string name="call_video_state_change_add">"la trucada actual és una videotrucada, no es pot afegir"</string>
+    <string name="call_video_state_change_hold">"la trucada actual és una videotrucada, no es pot mantenir"</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Įrašo laikas:"</string>
+<string name="onscreenShowRecodText">"Įrašyti"</string>
+<string name="recorderr">"Nepavyko išsaugoti įrašo failo!"</string>
+<string name="audio_db_artist_name">"Jūsų įrašai"</string>
+<string name="audio_db_album_name">"Skambučių įrašymai"</string>
+<string name="audio_db_playlist_name">"Mano įrašai"</string>
+<string name="app_name">"Telefono programėlė"</string>
+<string name="error_mediadb_new_record">"Nepavyko išsaugoti įrašyto garso."</string>
+<string name="sdcard_access_error">"SD kortelė nepasiekiama"</string>
+<string name="no_sd_card">"NĖRA SD kortelės arba ATJUNGTA"</string>
+<string name="insert_sd_card">"Prašom įdėti SD kortelę"</string>
+<string name="storage_is_full">"Saugykla pilna"</string>
+<string name="recording">"Įrašoma"</string>
+<string name="used_by_other_applications">"Įrašymo įrenginys naudojamas kitose programose, uždarykite programą"</string>
+    <string name="prompt_record_finish">"Įrašomas failas buvo išsaugotas"</string>
+    <string name="unknown_area">"Nežinoma zona"</string>
+    <string name="call_video_state_change_add">"Dabartinis skambutis yra vaizdo skambutis, negalima pridėti"</string>
+    <string name="call_video_state_change_hold">"dabartinis skambutis yra vaizdo skambutis, negalima užlaikyti"</string>
+
+</resources>

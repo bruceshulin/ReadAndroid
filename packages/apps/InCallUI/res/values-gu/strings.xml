@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ફોનીક્સ"</string>
+<string name="onHold">"હોલ્ડ પર"</string>
+<string name="unknown">"અજ્ઞાત"</string>
+<string name="private_num">"ખાનગી નંબર"</string>
+<string name="payphone">"પે ફોન"</string>
+<string name="confCall">"કોન્ફરન્સ કોલ"</string>
+<string name="call_lost">"કોલ છૂટી ગયો છે."</string>
+<string name="ok">"ઓકે"</string>
+<string name="audio_mode_speaker">સ્પીકર</string>
+<string name="audio_mode_earpiece">હેન્ડસેટ ઇયરપીસ</string>
+<string name="audio_mode_wired_headset">વાયર્ડ હેડસેટ</string>
+<string name="audio_mode_bluetooth">"બ્લ્યુટુથ"</string>
+<string name="wait_prompt_str">"નીચેના ટોન્સ મોકલવા છે?\n"</string>
+<string name="pause_prompt_str">"ટોન્સ મોકલાય છે\n"</string>
+<string name="send_button">"મોકલવું"</string>
+<string name="pause_prompt_yes">"હા"</string>
+<string name="pause_prompt_no">ના</string>
+<string name="wild_prompt_str">વાઇલ્ડ અક્ષરને ની સાથે બદલાવો</string>
+<string name="caller_manage_header">કોન્ફરન્સ કોલ <xliff:g id="conf_call_time">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">"વોઇઝમેઇલ નંબર"</string>
+<string name="card_title_dialing">"ડાયલીંગ"</string>
+<string name="card_title_redialing">"ફરી પ્રયાસ થાય છે"</string>
+<string name="card_title_conf_call">"કોન્ફરન્સ કોલ"</string>
+<string name="card_title_incoming_call">"આવક કોલ"</string>
+<string name="card_title_call_ended">"કોલ સમાપ્ત"</string>
+<string name="card_title_on_hold">"હોલ્ડ પર"</string>
+<string name="card_title_hanging_up">"હેન્ગીંગ અપ"</string>
+<string name="card_title_in_call">કોલમાં</string>
+<string name="card_title_my_phone_number">મારો નંબર આ છે<xliff:g id="my_phone_number">%s</xliff:g></string>
+<string name="card_title_video_call_connecting">"વીડિયો જોડે છે"</string>
+<string name="card_title_video_call">"વિડિયો કોલ"</string>
+<string name="card_title_video_call_requesting">"વીડિયોની વિનંતી કરે છે"</string>
+<string name="card_title_video_call_error">"વીડિયો કૉલ કરી શકાશે નહી"</string>
+<string name="card_title_callback_number">"તમારો કૉલ બેક નંબર\n <xliff:g id="dark_number">%1$s</xliff:g> "</string>
+<string name="card_title_callback_number_emergency">"તમારો આપાતકાલીન કૉલ બેક નંબર\n <xliff:g id="dark_number">%1$s</xliff:g> "</string>
+<string name="notification_dialing">"ડાયલીંગ"</string>
+<string name="notification_missedCallTitle">"ચૂકાઇ ગયેલ કોલ"</string>
+<string name="notification_missedCallsTitle">ચૂકાઇ ગયેલ કોલ્સ</string>
+<string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> છૂટી ગયેલ કોલ્સ</string>
+<string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> તરફથી છૂટી ગયેલ કોલ</string>
+<string name="notification_ongoing_call">ઓનગોઇંગ કોલ</string>
+<string name="notification_on_hold">"હોલ્ડ પર"</string>
+<string name="notification_incoming_call">"ઇનકમીંગ વોઇસ કૉલ"</string>
+<string name="notification_incoming_video_call">"આવક વિડીયો કોલ"</string>
+<string name="notification_requesting_video_call">"ઇનકમીંગ વીડિયો વિનંતી"</string>
+<string name="notification_voicemail_title">નવો વોઇઝમેઇલ</string>
+<string name="notification_voicemail_title_count">નવો વોઇઝમેઇલ (<xliff:g id="count">%d</xliff:g>)</string>
+<string name="notification_voicemail_text_format">ડાયલ <xliff:g id="voicemail_number">%s</xliff:g></string>
+<string name="notification_voicemail_no_vm_number">"વોઇઝમેઇલ નંબર અજ્ઞાત"</string>
+<string name="notification_network_selection_title">કોઇ સેવા નથી</string>
+<string name="notification_network_selection_text">પસંદ થયેલ નેટવર્ક (<xliff:g id="operator_name">%s</xliff:g>) અનુપલબ્ધ</string>
+<string name="notification_action_end_call">"હેન્ગ અપ"</string>
+<string name="notification_action_answer_video">"વિડિયો"</string>
+<string name="notification_action_answer_voice">"અવાજ"</string>
+<string name="notification_action_accept">સ્વીકારો</string>
+<string name="notification_action_dismiss">"બરખાસ્ત કરવું"</string>
+<string name="notification_missedCall_call_back">"કોલ બેક"</string>
+<string name="notification_missedCall_message">સંદેશ</string>
+<string name="incall_error_power_off">"કોલ કરવા માટે, પ્રથમ એરપ્લેન મોડ બંધ કરો"</string>
+<string name="incall_error_emergency_only">"નેટવર્ક પર નોંધાયેલ નથી."</string>
+<string name="incall_error_out_of_service">"મોબાઇન નેટવર્ક ઉપલબ્ધ નથી"</string>
+<string name="incall_error_no_phone_number_supplied">"કોલ મોકલાયો નથી, કોઇ માન્ય નંબર દાખલ થયો નથી."</string>
+<string name="incall_error_call_failed">"કોલ મોકલાયો નથી,"</string>
+<string name="incall_status_dialed_mmi">"MMI ક્રમ શરૂ થાય છે\2026"</string>
+<string name="incall_error_supp_service_unknown">"અસહાયક સેવા"</string>
+<string name="incall_error_supp_service_switch">"કોલ્સ બદલી કરવામાં નિષ્ફળ."</string>
+<string name="incall_error_supp_service_separate">"કોલ અલગ કરવામાં નિષ્ફળ."</string>
+<string name="incall_error_supp_service_transfer">"કોલ સ્થળાંતર કરવામાં નિષ્ફળ."</string>
+<string name="incall_error_supp_service_conference">"કોનફરન્સ કોલ્સ કરવામાં નિષ્ફળ."</string>
+<string name="incall_error_supp_service_reject">"કોલ અસ્વીકૃત કરવામાં નિષ્ફળ."</string>
+<string name="incall_error_supp_service_hangup">"કોલ(સ) મુક્ત કરવામાં નિષ્ફળ."</string>
+<string name="incall_call_type_label_sip">"SIP કૉલ"</string>
+<string name="emergency_enable_radio_dialog_title">"ઇમરજન્સી કોલ"</string>
+<string name="emergency_enable_radio_dialog_message">"રેડીયો ચાલુ કરો\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">સેવા વિસ્તારની બહાર, પુનઃપ્રયાસ થાય છે\u2026</string>
+<string name="dial_emergency_error">કોલ મોકલાયો નથી. <xliff:g id="non_emergency_number">%s</xliff:g> આકસ્મિક નંબર નથી!</string>
+<string name="dial_emergency_empty_error">કોલ મોકલાયો નથી. આકસ્મિક નંબર ડાયલ કરો!</string>
+<string name="dialerKeyboardHintText">"ડાયલ માટે કિબોર્ડનો ઉપયોગ કરો"</string>
+<string name="overflowHoldMenuItemText">"કૉલ હોલ્ડ કરો"</string>
+<string name="overflowResumeMenuItemText">"કૉલ ફરી શરૂ કરો"</string>
+<string name="overflowAddMenuItemText">"કોલ ઉમેરો"</string>
+<string name="overflowMergeMenuItemText">"કોલ મિશ્રણ કરો"</string>
+<string name="overflowSwapMenuItemText">"કોલ્સ સ્વેપ કરો"</string>
+<string name="onscreenHoldText">"ઊભું રાખવું"</string>
+<string name="onscreenEndCallText">"સમાપ્ત"</string>
+<string name="onscreenShowDialpadText">"ડાયલપેડ"</string>
+<string name="onscreenMuteText">મૂક </string>
+<string name="onscreenAddCallText">"કોલ ઉમેરો"</string>
+<string name="onscreenMergeCallsText">"કોલ મિશ્રણ કરો"</string>
+<string name="onscreenSwapCallsText">"સ્વેપ"</string>
+<string name="onscreenManageCallsText">"કોલ્સ મેનેજ કરો"</string>
+<string name="onscreenManageConferenceText">"કોન્ફરન્સ કોલ સંચાલન કરો"</string>
+<string name="onscreenAudioText">"ઓડિયો"</string>
+<string name="onscreenVideoCallText">"વિડિયો કોલ"</string>
+<string name="onscreenChangeToVoiceText">"વોઇસ કૉલ પર બદલો"</string>
+<string name="onscreenSwitchCameraText">કેમેરા બદલાવો</string>
+<string name="onscreenPauseVideoText">"વિડિયો પોઝ કરો"</string>
+<string name="onscreenOverflowText">વધુ વિકલ્પો </string>
+<string name="voicemail_provider">સેવા</string>
+<string name="voicemail_settings">સેટઅપ</string>
+<string name="voicemail_number_not_set">"સેટ નથી"</string>
+<string name="other_settings">"અન્ય કોલ ગોઠવણીઓ"</string>
+<string name="calling_via_template"><xliff:g id="provider_name">%s</xliff:g>વાયા કોલીંગ</string>
+<string name="incoming_via_template">"<xliff:g id="provider_name">%s</xliff:g>મારફતે ઇનકમીંગ"</string>
+<string name="contactPhoto">"સંપર્ક ફોટો"</string>
+<string name="goPrivate">"ખાનગી જાવ"</string>
+<string name="selectContact">"સંપર્ક પસંદ કરો"</string>
+<string name="respond_via_sms_custom_message">"તમારું પોતાનું લખો..."</string>
+<string name="custom_message_cancel">"રદ્દ કરવું"</string>
+<string name="custom_message_send">"મોકલવું"</string>
+<string name="description_image_button_one">"એક"</string>
+<string name="description_image_button_two">"બે"</string>
+<string name="description_image_button_three">"ત્રણ"</string>
+<string name="description_image_button_four">"ચાર"</string>
+<string name="description_image_button_five">"પાંચ"</string>
+<string name="description_image_button_six">"છ"</string>
+<string name="description_image_button_seven">"સાત"</string>
+<string name="description_image_button_eight">"આઠ"</string>
+<string name="description_image_button_nine">"નવ"</string>
+<string name="description_image_button_star">"સ્ટાર"</string>
+<string name="description_image_button_zero">"શૂન્ય"</string>
+<string name="description_image_button_pound">"પાઉન્ડ"</string>
+<string name="description_dial_button">"ડાયલ"</string>
+<string name="description_delete_button">"બેકસ્પેસ"</string>
+<string name="accessibility_speakerphone_selected">"સ્પીકરફોન પસંદ કર્યો"</string>
+<string name="accessibility_earpiece_selected">"ઇયરપીસ પસંદ કર્યુ"</string>
+<string name="accessibility_wired_headset_selected">"વાયર હેડસેટ પસંદ કર્યુ"</string>
+<string name="accessibility_bluetooth_headset_selected">"બ્લ્યુટુથ હેડસેટ પસંદ કર્યુ"</string>
+<string name="accessibility_call_muted">કોલ શાંત થઇ ગયો છે.</string>
+<string name="accessibility_call_unmuted">"કૉલ અનમ્યૂટ કર્યો."</string>
+<string name="accessibility_call_put_on_hold">"કૉલ હોલ્ડ પર મૂક્યો."</string>
+<string name="accessibility_call_removed_from_hold">"કૉલ હોલ્ડ પર દૂર કર્યો."</string>
+<string name="description_target_answer">"જવાબ"</string>
+<string name="description_target_send_sms">SMS સંદેશા મોકલો</string>
+<string name="description_target_decline">"ઇન્કાર કરવો"</string>
+<string name="description_target_answer_video_call">"વીડિયો કૉલ તરીકે ઉત્તર આપો"</string>
+<string name="description_target_answer_audio_call">"ઓડિયો કૉલ તરીકે ઉત્તર આપો"</string>
+<string name="description_target_accept_upgrade_to_video_request">"વીડિયો વિનંતી સ્વીકારો"</string>
+<string name="description_target_decline_upgrade_to_video_request">"વીડિયો વિનંતી નકારો"</string>
+<string name="description_direction_up"><xliff:g id="target_description" example="Unlock">%s</xliff:g> ના માટે સ્લાઇડ અપ કરો</string>
+<string name="description_direction_left"> <xliff:g id="target_description" example="Unlock">%s</xliff:g> ના માટેની ડાબી સ્લાઇડ.</string>
+<string name="description_direction_right"><xliff:g id="target_description" example="Unlock">%s</xliff:g> માટેની જમણી સ્લાઇડ.</string>
+<string name="description_direction_down"><xliff:g id="target_description" example="Unlock">%s</xliff:g>ના માટે સ્લાઇડ ડાઉન કરો.</string>
+<string name="voicemail_notification_vibrate_when_title">ધ્રુજારી</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">ધ્રુજારી</string>
+<string name="voicemail_notification_ringtone_title">"ધ્વનિ"</string>
+<string name="default_notification_description">"ડોલ્ડ ધ્વનિ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ફોન રીંગટોન"</string>
+<string name="vibrate_on_ring_title">રીંગ થાય ત્યારે વાઇબ્રેટ</string>
+<string name="dial_pad_autocomplete">"ડાયલ પેડ સ્વયંસંપૂર્ણ "</string>
+<string name="preference_category_ringtone">"રીંગટોન &amp; કંપન"</string>
+<string name="manageConferenceLabel">"કોન્ફરન્સ કોલ સંચાલન કરો"</string>
+<string name="emergency_call_dialog_number_for_display">"ઇમરજન્સી નંબર"</string>
+<string name="select_account_dialog_title">"કૃપયા SIM પસંદ કરો"</string>
+    <string name="notification_action_answer">"જવાબ"</string>
+
+</resources>

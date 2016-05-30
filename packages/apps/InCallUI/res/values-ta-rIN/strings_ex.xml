@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">பதிவு நடைபெறுகிறது</string>
+<string name="onscreenShowRecodText">பதிவு செய்க</string>
+<string name="recorderr">"பதிவுக் கோப்பை சேமித்தல் தோல்வியடைந்தது!"</string>
+<string name="audio_db_artist_name">உங்கள் ஒலிப்பதிவுகள்</string>
+<string name="audio_db_album_name">"அழைப்புப் பதிவாக்கல்கள்"</string>
+<string name="audio_db_playlist_name">எனது ஒலிப்பதிவுகள்</string>
+<string name="app_name">தொலைபேசி அப்ளிகேஷன்</string>
+<string name="error_mediadb_new_record">பதியப்பட்ட ஆடியோவை சேமிக்க முடியவில்லை</string>
+<string name="sdcard_access_error">Sdஅட்டையை அணுக முடியாது</string>
+<string name="no_sd_card">"SD கார்டு இல்லை அல்லது ஏற்றப்பட்டிருக்காது"</string>
+<string name="insert_sd_card">தயவு செய்து ஒரு SD கார்டு செருகவும்</string>
+<string name="storage_is_full">சேமிப்பகம் நிறைந்தது</string>
+<string name="recording">பதிவாகிறது</string>
+<string name="used_by_other_applications">"பதிவுசெய்யும் உபகரணம் பிற புரோகிராம்களால் பயன்படுத்தப்படுகின்றது, தயவுசெய்து புரோகிராமை நிறுத்தவும்."</string>
+    <string name="prompt_record_finish">"பதியும் கோப்பு சேமிக்கப்பட்ட இடம்"</string>
+    <string name="unknown_area">"அறியாத பகுதி"</string>
+    <string name="call_video_state_change_add">"தற்போதைய அழைப்பு வீடியோ அழைப்பு, சேர்க்க முடியவில்லை"</string>
+    <string name="call_video_state_change_hold">"தற்போதைய அழைப்பு வீடியோ அழைப்பு, ஹோல்ட் செய்ய முடியவில்லை"</string>
+
+</resources>

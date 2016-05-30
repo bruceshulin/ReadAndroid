@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">రికార్డ్ ఆన్</string>
+<string name="onscreenShowRecodText">రికార్డ్</string>
+<string name="recorderr">"రికార్డ్ ఫైల్ సేవ్ ఫెయిల్!"</string>
+<string name="audio_db_artist_name">మీ రికార్డింగులు</string>
+<string name="audio_db_album_name">"కాల్ రికార్డింగ్స్"</string>
+<string name="audio_db_playlist_name">నా రికార్డింగులు</string>
+<string name="app_name">ఫోన్ App</string>
+<string name="error_mediadb_new_record">రికార్డ్ ఆడియో సేవ్ చేయడం సాధ్యం కాలేదు</string>
+<string name="sdcard_access_error">sd కార్డ్ ను యాక్సెస్ చేయలేము.</string>
+<string name="no_sd_card">"SD కార్డ్ లేదు లేదా అన్మౌంట్ చేయబడింది"</string>
+<string name="insert_sd_card">ఒక SD కార్డును ఇన్సర్ట్ చేయండి</string>
+<string name="storage_is_full">"స్టోరేజ్ నిండుగా ఉన్నది"</string>
+<string name="recording">రికార్డింగ్</string>
+<string name="used_by_other_applications">"రికార్డింగ్ పరికరాలు ఇతర ప్రోగ్రాములచే ఉపయోగించబడుతున్నాయి, దయచేసి ప్రోగ్రామును షట్ డౌన్ చేయండి"</string>
+    <string name="prompt_record_finish">"రికార్దింగ్ ఫైల్ దీనికి సేవ్ చేయబడింది"</string>
+    <string name="unknown_area">"తెలియని ఏరియా"</string>
+    <string name="call_video_state_change_add">"ప్రస్తుత కాల్ వీడియో కాల్, జోడించడం కుదరదు"</string>
+    <string name="call_video_state_change_hold">"ప్రస్తుత కాల్ వీడియో కాల్, హోల్డ్ చేయడం కుదరదు"</string>
+
+</resources>
